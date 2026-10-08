@@ -8,6 +8,12 @@ Windows ilk kurulumda "bilinmeyen yayıncı" uyarısı gösterebilir; "Ek bilgi"
 
 # Güncelleme Geçmişi
 
+## 0.3.2 — 2026-10-08
+
+- Oyun açıkken launcher'ı kapatmak artık oyunu kapatmıyor: launcher saatin yanındaki simgelere iner, son oyun kapanınca kendisi de kapanır.
+- Discord profilinde artık "AsuraSMP oynuyor" görünüyor (Discord açıkken, oyun süresince).
+- Launcher ile giren oyuncular sunucuda duyuruluyor ve günlük hediye alıyor: 1 Para Kasası Anahtarı, 1 Event Kasası Anahtarı ve 25 kristal.
+
 ## 0.3.1 — 2026-10-08
 
 - Sunucu artık Asura Launcher ile giren oyuncuları tanıyor. Launcher'a özel hediyeler için duyuruları takip et.
