@@ -1,0 +1,12 @@
+[
+  {
+    "title": "Sürüm 0.2.1",
+    "body": "• Aynı anda birden fazla hesap: farklı profillerle birden çok oyun açabilirsin (en fazla 4). Hesabı OYNA'nın yanındaki \"Hesap\" kutusundan seç.\n• Açık oyunlar ana sayfada listelenir ve tek tek kapatılabilir.\n• Koordinatlar artık sen açmadıkça ekranda görünmez. FPS / Ping kutusu da varsayılan olarak kapalı gelir; ikisi ESC menüsünden açılır.\n• Güncellemeler zorunlu ve otomatik: yeni sürüm çıkınca launcher kendisi indirir, kurar ve yeniden açılır.",
+    "date": "2026-10-08"
+  },
+  {
+    "title": "Sürüm 0.2.0",
+    "body": "• Asura SMP kurulumu: Fabric 1.21.4 ve gerekli modlar tek tıkla kurulur.\n• Performans modları: Sodium, Lithium ve FerriteCore.\n• Sesli sohbet: Simple Voice Chat kurulu gelir.\n• ESC menüsüne grafik modları (Performans / Orta / Kalite) ve Sesleri Sıfırla düğmesi eklendi.\n• C tuşuyla yakınlaştırma, shader desteği (Iris), tam parlaklık ve çevrimdışı hesaplar için skin desteği.\n• play.asurasmp.com çok oyunculu listesinde en üstte; istersen oyun açılınca doğrudan sunucuya bağlanır.\n• Yeni arayüz: canlı sunucu durumu, oyuncu sayısı ve Kick yayını açıkken \"CANLI\" rozeti.\n• Oyun çökerse sebebini anlat…",
+    "date": "2026-10-08"
+  }
+]
