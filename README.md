@@ -8,6 +8,10 @@ Windows ilk kurulumda "bilinmeyen yayıncı" uyarısı gösterebilir; "Ek bilgi"
 
 # Güncelleme Geçmişi
 
+## 0.3.1 — 2026-10-08
+
+- Sunucu artık Asura Launcher ile giren oyuncuları tanıyor. Launcher'a özel hediyeler için duyuruları takip et.
+
 ## 0.3.0 — 2026-10-08
 
 - Yeni Minecraft sürümleri: artık 1.21.4'ün yanında 1.21.11 ve 26.2 ile de oynayabilirsin. Sürümü OYNA düğmesinin yanındaki "Kurulum" kutusundan seçersin.
