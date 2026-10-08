@@ -8,6 +8,15 @@ Windows ilk kurulumda "bilinmeyen yayıncı" uyarısı gösterebilir; "Ek bilgi"
 
 # Güncelleme Geçmişi
 
+## 0.3.0 — 2026-10-08
+
+- Yeni Minecraft sürümleri: artık 1.21.4'ün yanında 1.21.11 ve 26.2 ile de oynayabilirsin. Sürümü OYNA düğmesinin yanındaki "Kurulum" kutusundan seçersin.
+- Yeni bir sürüme ilk geçişte tuş, ses ve görüntü ayarların 1.21.4'teki ayarlarından kopyalanır.
+- ESC menüsündeki Asura düğmeleri (Performans / Orta / Kalite, Sesleri Sıfırla, FPS / Ping, Tuşlar, Yayıncı Modu) üç sürümde de var.
+- Giriş ekranı sadeleşti: orijinal hesabın olsa da kullanıcı adını yazıp girmen yeterli, skinin kendiliğinden gelir.
+- Bir mod seçtiğin sürüme henüz çıkmamışsa oyun artık hata vermek yerine o mod olmadan açılır.
+- Güncelleme geçmişi artık launcher'ın ana sayfasında görünüyor.
+
 ## 0.2.1 — 2026-10-08
 
 - Aynı anda birden fazla hesap: farklı profillerle birden çok oyun açabilirsin (en fazla 4). Hesabı OYNA'nın yanındaki "Hesap" kutusundan seç.
