@@ -1,12 +1,12 @@
 [
   {
-    "title": "Sürüm 0.3.0",
-    "body": "• Yeni Minecraft sürümleri: artık 1.21.4'ün yanında 1.21.11 ve 26.2 ile de oynayabilirsin. Sürümü OYNA düğmesinin yanındaki \"Kurulum\" kutusundan seçersin.\n• Yeni bir sürüme ilk geçişte tuş, ses ve görüntü ayarların 1.21.4'teki ayarlarından kopyalanır.\n• ESC menüsündeki Asura düğmeleri (Performans / Orta / Kalite, Sesleri Sıfırla, FPS / Ping, Tuşlar, Yayıncı Modu) üç sürümde de var.\n• Giriş ekranı sadeleşti: orijinal hesabın olsa da kullanıcı adını yazıp girmen yeterli, skinin kendiliğinden gelir.\n• …ve daha fazlası",
+    "title": "Sürüm 0.3.1",
+    "body": "• Sunucu artık Asura Launcher ile giren oyuncuları tanıyor. Launcher'a özel hediyeler için duyuruları takip et.",
     "date": "2026-10-08"
   },
   {
-    "title": "Sürüm 0.2.1",
-    "body": "• Aynı anda birden fazla hesap: farklı profillerle birden çok oyun açabilirsin (en fazla 4). Hesabı OYNA'nın yanındaki \"Hesap\" kutusundan seç.\n• Açık oyunlar ana sayfada listelenir ve tek tek kapatılabilir.\n• Koordinatlar artık sen açmadıkça ekranda görünmez. FPS / Ping kutusu da varsayılan olarak kapalı gelir; ikisi ESC menüsünden açılır.\n• Güncellemeler zorunlu ve otomatik: yeni sürüm çıkınca launcher kendisi indirir, kurar ve yeniden açılır.",
+    "title": "Sürüm 0.3.0",
+    "body": "• Yeni Minecraft sürümleri: artık 1.21.4'ün yanında 1.21.11 ve 26.2 ile de oynayabilirsin. Sürümü OYNA düğmesinin yanındaki \"Kurulum\" kutusundan seçersin.\n• Yeni bir sürüme ilk geçişte tuş, ses ve görüntü ayarların 1.21.4'teki ayarlarından kopyalanır.\n• ESC menüsündeki Asura düğmeleri (Performans / Orta / Kalite, Sesleri Sıfırla, FPS / Ping, Tuşlar, Yayıncı Modu) üç sürümde de var.\n• Giriş ekranı sadeleşti: orijinal hesabın olsa da kullanıcı adını yazıp girmen yeterli, skinin kendiliğinden gelir.\n• …ve daha fazlası",
     "date": "2026-10-08"
   }
 ]
