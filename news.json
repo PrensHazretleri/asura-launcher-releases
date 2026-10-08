@@ -1,12 +1,12 @@
 [
   {
-    "title": "Sürüm 0.3.1",
-    "body": "• Sunucu artık Asura Launcher ile giren oyuncuları tanıyor. Launcher'a özel hediyeler için duyuruları takip et.",
+    "title": "Sürüm 0.3.2",
+    "body": "• Oyun açıkken launcher'ı kapatmak artık oyunu kapatmıyor: launcher saatin yanındaki simgelere iner, son oyun kapanınca kendisi de kapanır.\n• Discord profilinde artık \"AsuraSMP oynuyor\" görünüyor (Discord açıkken, oyun süresince).\n• Launcher ile giren oyuncular sunucuda duyuruluyor ve günlük hediye alıyor: 1 Para Kasası Anahtarı, 1 Event Kasası Anahtarı ve 25 kristal.",
     "date": "2026-10-08"
   },
   {
-    "title": "Sürüm 0.3.0",
-    "body": "• Yeni Minecraft sürümleri: artık 1.21.4'ün yanında 1.21.11 ve 26.2 ile de oynayabilirsin. Sürümü OYNA düğmesinin yanındaki \"Kurulum\" kutusundan seçersin.\n• Yeni bir sürüme ilk geçişte tuş, ses ve görüntü ayarların 1.21.4'teki ayarlarından kopyalanır.\n• ESC menüsündeki Asura düğmeleri (Performans / Orta / Kalite, Sesleri Sıfırla, FPS / Ping, Tuşlar, Yayıncı Modu) üç sürümde de var.\n• Giriş ekranı sadeleşti: orijinal hesabın olsa da kullanıcı adını yazıp girmen yeterli, skinin kendiliğinden gelir.\n• …ve daha fazlası",
+    "title": "Sürüm 0.3.1",
+    "body": "• Sunucu artık Asura Launcher ile giren oyuncuları tanıyor. Launcher'a özel hediyeler için duyuruları takip et.",
     "date": "2026-10-08"
   }
 ]
