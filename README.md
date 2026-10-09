@@ -8,6 +8,11 @@ Windows ilk kurulumda "bilinmeyen yayıncı" uyarısı gösterebilir; "Ek bilgi"
 
 # Güncelleme Geçmişi
 
+## 0.6.2 — 2026-10-09
+
+- Launcher'dan açılan Yayıncı Modu artık oyundaki Asura Menü'den o oturum için kapatılabiliyor; oyunu yeniden açınca tekrar açık gelir.
+- Asura Menü'de "Ekran Görüntüleri" düğmesinin yazısı artık düğmeye sığıyor.
+
 ## 0.6.1 — 2026-10-09
 
 - Bazı oyuncuların sırtında görünen "Update Cosmetica To V2" yazılı sarı pelerin düzeltildi.
