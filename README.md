@@ -8,6 +8,17 @@ Windows ilk kurulumda "bilinmeyen yayıncı" uyarısı gösterebilir; "Ek bilgi"
 
 # Güncelleme Geçmişi
 
+## 1.0.0 — 2026-10-09
+
+- Launcher girişi: sunucu şifreni launcher'a bir kez yaz, artık /login yazmadan gir. Şifren bilgisayarında şifrelenerek saklanır ve yalnızca Asura SMP sunucusuna gönderilir.
+- Her hesap kendi şifresini saklar: şifresi kayıtlı olmayan hesapta "şifre gerekli" yazar. Birden fazla hesapla aynı anda 4 oyuna kadar açmaya devam edebilirsin.
+- Şifren yanlışsa oyun bunu sana söyler ve her zamanki gibi /login ile girersin; doğrusunu Profiller sayfasındaki anahtar düğmesinden kaydedersin.
+- Şifreni launcher'dan değiştir: Profiller sayfasındaki anahtar düğmesinden yeni şifreni yaz; sunucuya bir sonraki girişinde sunucudaki şifren de değişir, oyunda komut yazman gerekmez.
+- Discord bağlama: Profiller sayfasındaki anahtar düğmesinden hesabını Discord'a bağla. Şifreni unutursan "Şifremi unuttum" ile launcher'dan yenisini belirlersin.
+- Günlük hediye, giriş serisi ve seri pelerinleri artık yalnızca launcher girişi doğrulanan hesaplara verilir.
+- Skin ve pelerin değişiklikleri yalnızca hesabın gerçek sahibi için geçerli olur: başkası senin adınla görünümünü değiştiremez.
+- Launcher'sız oyuncular için bir şey değişmedi: /login ile girmeye devam.
+
 ## 0.7.2 — 2026-10-09
 
 - Arayüzü Düzenle'de göstergeler artık kendiliğinden hizalanıyor: sürüklediğin kutu ekran kenarlarına, ortaya ve diğer kutulara yapışır, pembe çizgi nereye oturduğunu gösterir.
