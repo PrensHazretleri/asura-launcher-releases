@@ -1,12 +1,12 @@
 [
   {
-    "title": "Sürüm 0.6.1",
-    "body": "• Bazı oyuncuların sırtında görünen \"Update Cosmetica To V2\" yazılı sarı pelerin düzeltildi.",
+    "title": "Sürüm 0.6.2",
+    "body": "• Launcher'dan açılan Yayıncı Modu artık oyundaki Asura Menü'den o oturum için kapatılabiliyor; oyunu yeniden açınca tekrar açık gelir.\n• Asura Menü'de \"Ekran Görüntüleri\" düğmesinin yazısı artık düğmeye sığıyor.",
     "date": "2026-10-09"
   },
   {
-    "title": "Sürüm 0.6.0",
-    "body": "• Kendi skinini yükle: Profiller sayfasından bilgisayarındaki skin dosyasını seç; sunucuya girdiğinde herkes onu görür. Orijinal hesap gerekmez.\n• Seriyle kazanılan pelerinler: Alev 7 günlük, Ay Yıldız 15 günlük, yeni Efsane pelerini 30 günlük giriş serisiyle açılır. Bir kez kazandığın pelerin serin bozulsa da kalır.\n• Asura Menü'ye yeni araçlar: Ekran Görüntüleri klasörü, Discord ve Oy Ver düğmeleri.\n• Oy ver: ana sayfada \"Bugün oy vermedin\" hatırlatıcısı. Düğmeye basınca oy sayfası açılır ve kullanıcı adın kopyalanır; siteye yapıştırman yeter.\n• …ve daha fazlası",
+    "title": "Sürüm 0.6.1",
+    "body": "• Bazı oyuncuların sırtında görünen \"Update Cosmetica To V2\" yazılı sarı pelerin düzeltildi.",
     "date": "2026-10-09"
   }
 ]
