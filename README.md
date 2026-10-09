@@ -8,6 +8,13 @@ Windows ilk kurulumda "bilinmeyen yayıncı" uyarısı gösterebilir; "Ek bilgi"
 
 # Güncelleme Geçmişi
 
+## 0.7.0 — 2026-10-09
+
+- Asura Menü yenilendi: daha geniş, iki sütunlu yeni tasarım ve beş yeni gösterge: CPS, Zırh Durumu, Efektler, Saat ve Yön. Hepsi kapalı gelir, istediğini açarsın.
+- Yayıncı Modu açıkken Asura Menü'deki Koordinat anahtarı kilitlenir.
+- Yeni seçmeli mod: Xaero's Minimap (Modlar sayfasından açılır).
+- Launcher'a yeni arka plan ve açılış animasyonu eklendi.
+
 ## 0.6.3 — 2026-10-09
 
 - "Tam ekran başlat" açıkken oyunda F11 ile tam ekrandan çıkılamıyordu; düzeltildi.
