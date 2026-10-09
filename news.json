@@ -1,12 +1,12 @@
 [
   {
-    "title": "Sürüm 0.3.2",
-    "body": "• Oyun açıkken launcher'ı kapatmak artık oyunu kapatmıyor: launcher saatin yanındaki simgelere iner, son oyun kapanınca kendisi de kapanır.\n• Discord profilinde artık \"AsuraSMP oynuyor\" görünüyor (Discord açıkken, oyun süresince).\n• Launcher ile giren oyuncular sunucuda duyuruluyor ve günlük hediye alıyor: 1 Para Kasası Anahtarı, 1 Event Kasası Anahtarı ve 25 kristal.",
-    "date": "2026-10-08"
+    "title": "Sürüm 0.4.0",
+    "body": "• Oyunun ana menüsüne \"Asura SMP'ye Bağlan\" düğmesi eklendi: tek tıkla sunucuya girersin.\n• Günlük launcher hediyenin durumu ana sayfada: bugün aldın mı, seni bekliyor mu görürsün.\n• Yeni Ayarlar sayfası: çözünürlük, tam ekran, Java seçimi ve bilgisayarına göre RAM önerisi.\n• \"Dosyaları onar\": oyun açılmıyorsa Ayarlar > Sorun Giderme'den tek tıkla dosyaları doğrulat.\n• Modları sen seç: shader, yakınlaştırma, tam parlaklık ve skin modlarını Ayarlar'dan açıp kapat; hazır shader paketini indir; \"Mod klasörünü aç\" ile kendi Fabric modunu ekle.\n• …ve daha fazlası",
+    "date": "2026-10-09"
   },
   {
-    "title": "Sürüm 0.3.1",
-    "body": "• Sunucu artık Asura Launcher ile giren oyuncuları tanıyor. Launcher'a özel hediyeler için duyuruları takip et.",
+    "title": "Sürüm 0.3.2",
+    "body": "• Oyun açıkken launcher'ı kapatmak artık oyunu kapatmıyor: launcher saatin yanındaki simgelere iner, son oyun kapanınca kendisi de kapanır.\n• Discord profilinde artık \"AsuraSMP oynuyor\" görünüyor (Discord açıkken, oyun süresince).\n• Launcher ile giren oyuncular sunucuda duyuruluyor ve günlük hediye alıyor: 1 Para Kasası Anahtarı, 1 Event Kasası Anahtarı ve 25 kristal.",
     "date": "2026-10-08"
   }
 ]
