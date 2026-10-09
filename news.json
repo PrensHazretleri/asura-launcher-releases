@@ -1,12 +1,12 @@
 [
   {
-    "title": "Sürüm 0.7.1",
-    "body": "• Göstergeler ayrıldı: FPS, ping, koordinat, CPS, saat, yön ve efektler artık ayrı ayrı küçük kutular; her birini Arayüzü Düzenle ekranında tek tek taşıyabilirsin.\n• Zırh göstergesi yenilendi: zırhların eşya resimleriyle dikey dizilir, yanında kalan dayanıklılık yazar ve azaldıkça sarıya, kırmızıya döner.\n• Arayüzü Düzenle ekranı düzeltildi.\n• Ayrı zırh göstergesi modu (uku's Armor HUD) kaldırıldı; yerini Asura Menü'deki Zırh Durumu aldı.",
+    "title": "Sürüm 0.7.2",
+    "body": "• Arayüzü Düzenle'de göstergeler artık kendiliğinden hizalanıyor: sürüklediğin kutu ekran kenarlarına, ortaya ve diğer kutulara yapışır, pembe çizgi nereye oturduğunu gösterir.\n• Arayüzü Düzenle ekranında yalnızca açık olan göstergeler görünür.\n• Giriş ekranı sadeleşti: daha anlaşılır yazılar ve geçersiz oyuncu adında anında uyarı.",
     "date": "2026-10-09"
   },
   {
-    "title": "Sürüm 0.7.0",
-    "body": "• Asura Menü yenilendi: daha geniş, iki sütunlu yeni tasarım ve beş yeni gösterge: CPS, Zırh Durumu, Efektler, Saat ve Yön. Hepsi kapalı gelir, istediğini açarsın.\n• Yayıncı Modu açıkken Asura Menü'deki Koordinat anahtarı kilitlenir.\n• Yeni seçmeli mod: Xaero's Minimap (Modlar sayfasından açılır).\n• Launcher'a yeni arka plan ve açılış animasyonu eklendi.",
+    "title": "Sürüm 0.7.1",
+    "body": "• Göstergeler ayrıldı: FPS, ping, koordinat, CPS, saat, yön ve efektler artık ayrı ayrı küçük kutular; her birini Arayüzü Düzenle ekranında tek tek taşıyabilirsin.\n• Zırh göstergesi yenilendi: zırhların eşya resimleriyle dikey dizilir, yanında kalan dayanıklılık yazar ve azaldıkça sarıya, kırmızıya döner.\n• Arayüzü Düzenle ekranı düzeltildi.\n• Ayrı zırh göstergesi modu (uku's Armor HUD) kaldırıldı; yerini Asura Menü'deki Zırh Durumu aldı.",
     "date": "2026-10-09"
   }
 ]
