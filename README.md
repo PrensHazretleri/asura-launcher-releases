@@ -8,14 +8,20 @@ Windows ilk kurulumda "bilinmeyen yayıncı" uyarısı gösterebilir; "Ek bilgi"
 
 # Güncelleme Geçmişi
 
-## 0.5.2 — 2026-10-09
+## 0.6.0 — 2026-10-09
 
+- Kendi skinini yükle: Profiller sayfasından bilgisayarındaki skin dosyasını seç; sunucuya girdiğinde herkes onu görür. Orijinal hesap gerekmez.
+- Seriyle kazanılan pelerinler: Alev 7 günlük, Ay Yıldız 15 günlük, yeni Efsane pelerini 30 günlük giriş serisiyle açılır. Bir kez kazandığın pelerin serin bozulsa da kalır.
+- Asura Menü'ye yeni araçlar: Ekran Görüntüleri klasörü, Discord ve Oy Ver düğmeleri.
 - Oy ver: ana sayfada "Bugün oy vermedin" hatırlatıcısı. Düğmeye basınca oy sayfası açılır ve kullanıcı adın kopyalanır; siteye yapıştırman yeter.
 - Launcher'dan Yayıncı Modu: Ayarlar'dan aç, oyun her açılışta koordinatlar gizli başlasın. Açıkken koordinat gösteren modlar (BetterF3) kurulmaz.
 - Bilgisayarına göre ayarla: launcher RAM'ine ve ekran kartına bakıp ayrılacak RAM'i ve grafik modunu seçer. Yeni kurulumlarda kendiliğinden yapılır; Ayarlar'daki düğmeyle istediğin zaman tekrarlayabilirsin.
 - Sunucu durumu artık yanlışlıkla "çevrimdışı" görünmüyor.
 - Birden fazla hesabın varsa giriş serisi kutusu artık seçili hesabın serisini gösterir.
 - Skin seçimi sadeleşti: isim yazmak yerine kayıtlı hesaplarından birinin skinini listeden seçersin. Skini olmayan isimlerde önizleme artık bunu açıkça söylüyor.
+
+## 0.5.2 — 2026-10-09
+
 - Freelook modu kaldırıldı.
 
 ## 0.5.0 — 2026-10-09
