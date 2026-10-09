@@ -1,12 +1,12 @@
 [
   {
-    "title": "Sürüm 0.4.0",
-    "body": "• Oyunun ana menüsüne \"Asura SMP'ye Bağlan\" düğmesi eklendi: tek tıkla sunucuya girersin.\n• Günlük launcher hediyenin durumu ana sayfada: bugün aldın mı, seni bekliyor mu görürsün.\n• Yeni Ayarlar sayfası: çözünürlük, tam ekran, Java seçimi ve bilgisayarına göre RAM önerisi.\n• \"Dosyaları onar\": oyun açılmıyorsa Ayarlar > Sorun Giderme'den tek tıkla dosyaları doğrulat.\n• Modları sen seç: shader, yakınlaştırma, tam parlaklık ve skin modlarını Ayarlar'dan açıp kapat; hazır shader paketini indir; \"Mod klasörünü aç\" ile kendi Fabric modunu ekle.\n• …ve daha fazlası",
+    "title": "Sürüm 0.5.0",
+    "body": "• Giriş serisi: launcher ile her gün gir, ödülün büyüsün. 7. günden itibaren Oy Kasası, 15. günden itibaren Titan Kasası, 25. günden itibaren Ametist Kasası anahtarı; 15. ve 30. günde büyük kristal ikramiyesi. Serin ana sayfada görünür.\n• Pelerinler: Profiller sayfasındaki tişört düğmesinden sekiz pelerinden birini seç. Pelerinini Asura Launcher ile oynayan herkes görür.\n• Skin seçici: aynı yerden beğendiğin bir oyuncunun adını yaz, önizle ve skinini kullan.\n• Yeni Modlar sayfası: modları gruplar halinde gör, tek tıkla aç kapat. Hazır profiller: Sade, PvP, Yapı, Yayıncı.\n• …ve daha fazlası",
     "date": "2026-10-09"
   },
   {
-    "title": "Sürüm 0.3.2",
-    "body": "• Oyun açıkken launcher'ı kapatmak artık oyunu kapatmıyor: launcher saatin yanındaki simgelere iner, son oyun kapanınca kendisi de kapanır.\n• Discord profilinde artık \"AsuraSMP oynuyor\" görünüyor (Discord açıkken, oyun süresince).\n• Launcher ile giren oyuncular sunucuda duyuruluyor ve günlük hediye alıyor: 1 Para Kasası Anahtarı, 1 Event Kasası Anahtarı ve 25 kristal.",
-    "date": "2026-10-08"
+    "title": "Sürüm 0.4.0",
+    "body": "• Oyunun ana menüsüne \"Asura SMP'ye Bağlan\" düğmesi eklendi: tek tıkla sunucuya girersin.\n• Günlük launcher hediyenin durumu ana sayfada: bugün aldın mı, seni bekliyor mu görürsün.\n• Yeni Ayarlar sayfası: çözünürlük, tam ekran, Java seçimi ve bilgisayarına göre RAM önerisi.\n• \"Dosyaları onar\": oyun açılmıyorsa Ayarlar > Sorun Giderme'den tek tıkla dosyaları doğrulat.\n• Modları sen seç: shader, yakınlaştırma, tam parlaklık ve skin modlarını Ayarlar'dan açıp kapat; hazır shader paketini indir; \"Mod klasörünü aç\" ile kendi Fabric modunu ekle.\n• …ve daha fazlası",
+    "date": "2026-10-09"
   }
 ]
