@@ -8,6 +8,16 @@ Windows ilk kurulumda "bilinmeyen yayıncı" uyarısı gösterebilir; "Ek bilgi"
 
 # Güncelleme Geçmişi
 
+## 0.5.2 — 2026-10-09
+
+- Oy ver: ana sayfada "Bugün oy vermedin" hatırlatıcısı. Düğmeye basınca oy sayfası açılır ve kullanıcı adın kopyalanır; siteye yapıştırman yeter.
+- Launcher'dan Yayıncı Modu: Ayarlar'dan aç, oyun her açılışta koordinatlar gizli başlasın. Açıkken koordinat gösteren modlar (BetterF3) kurulmaz.
+- Bilgisayarına göre ayarla: launcher RAM'ine ve ekran kartına bakıp ayrılacak RAM'i ve grafik modunu seçer. Yeni kurulumlarda kendiliğinden yapılır; Ayarlar'daki düğmeyle istediğin zaman tekrarlayabilirsin.
+- Sunucu durumu artık yanlışlıkla "çevrimdışı" görünmüyor.
+- Birden fazla hesabın varsa giriş serisi kutusu artık seçili hesabın serisini gösterir.
+- Skin seçimi sadeleşti: isim yazmak yerine kayıtlı hesaplarından birinin skinini listeden seçersin. Skini olmayan isimlerde önizleme artık bunu açıkça söylüyor.
+- Freelook modu kaldırıldı.
+
 ## 0.5.0 — 2026-10-09
 
 - Giriş serisi: launcher ile her gün gir, ödülün büyüsün. 7. günden itibaren Oy Kasası, 15. günden itibaren Titan Kasası, 25. günden itibaren Ametist Kasası anahtarı; 15. ve 30. günde büyük kristal ikramiyesi. Serin ana sayfada görünür.
