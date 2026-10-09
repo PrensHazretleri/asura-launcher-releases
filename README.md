@@ -8,6 +8,10 @@ Windows ilk kurulumda "bilinmeyen yayıncı" uyarısı gösterebilir; "Ek bilgi"
 
 # Güncelleme Geçmişi
 
+## 0.6.3 — 2026-10-09
+
+- "Tam ekran başlat" açıkken oyunda F11 ile tam ekrandan çıkılamıyordu; düzeltildi.
+
 ## 0.6.2 — 2026-10-09
 
 - Launcher'dan açılan Yayıncı Modu artık oyundaki Asura Menü'den o oturum için kapatılabiliyor; oyunu yeniden açınca tekrar açık gelir.
