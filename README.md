@@ -8,6 +8,13 @@ Windows ilk kurulumda "bilinmeyen yayıncı" uyarısı gösterebilir; "Ek bilgi"
 
 # Güncelleme Geçmişi
 
+## 0.7.1 — 2026-10-09
+
+- Göstergeler ayrıldı: FPS, ping, koordinat, CPS, saat, yön ve efektler artık ayrı ayrı küçük kutular; her birini Arayüzü Düzenle ekranında tek tek taşıyabilirsin.
+- Zırh göstergesi yenilendi: zırhların eşya resimleriyle dikey dizilir, yanında kalan dayanıklılık yazar ve azaldıkça sarıya, kırmızıya döner.
+- Arayüzü Düzenle ekranı düzeltildi.
+- Ayrı zırh göstergesi modu (uku's Armor HUD) kaldırıldı; yerini Asura Menü'deki Zırh Durumu aldı.
+
 ## 0.7.0 — 2026-10-09
 
 - Asura Menü yenilendi: daha geniş, iki sütunlu yeni tasarım ve beş yeni gösterge: CPS, Zırh Durumu, Efektler, Saat ve Yön. Hepsi kapalı gelir, istediğini açarsın.
