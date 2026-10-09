@@ -8,6 +8,20 @@ Windows ilk kurulumda "bilinmeyen yayıncı" uyarısı gösterebilir; "Ek bilgi"
 
 # Güncelleme Geçmişi
 
+## 0.4.0 — 2026-10-09
+
+- Oyunun ana menüsüne "Asura SMP'ye Bağlan" düğmesi eklendi: tek tıkla sunucuya girersin.
+- Günlük launcher hediyenin durumu ana sayfada: bugün aldın mı, seni bekliyor mu görürsün.
+- Yeni Ayarlar sayfası: çözünürlük, tam ekran, Java seçimi ve bilgisayarına göre RAM önerisi.
+- "Dosyaları onar": oyun açılmıyorsa Ayarlar > Sorun Giderme'den tek tıkla dosyaları doğrulat.
+- Modları sen seç: shader, yakınlaştırma, tam parlaklık ve skin modlarını Ayarlar'dan açıp kapat; hazır shader paketini indir; "Mod klasörünü aç" ile kendi Fabric modunu ekle.
+- Arayüzü Düzenle: ESC menüsünden göstergeleri (FPS, koordinat, kristal, tuşlar) sürükleyip ekranda istediğin yere taşı.
+- Kristal göstergesi: ESC menüsünden açarsan kristal sayın ekranın köşesinde görünür.
+- Discord düğmesi: ana sayfadan ve çökme penceresinden tek tıkla Discord sunucumuza gel.
+- Yayın başlayınca masaüstü bildirimi (Ayarlar'dan kapatılabilir).
+- İndirme sırasında kalan boyut ve tahmini süre gösteriliyor; profilinde skininin yüzü görünüyor.
+- Launcher artık kendi logosuyla geliyor ve OYNA düğmesi her zaman ekranda.
+
 ## 0.3.2 — 2026-10-08
 
 - Oyun açıkken launcher'ı kapatmak artık oyunu kapatmıyor: launcher saatin yanındaki simgelere iner, son oyun kapanınca kendisi de kapanır.
