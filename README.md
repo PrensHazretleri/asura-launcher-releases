@@ -8,6 +8,18 @@ Windows ilk kurulumda "bilinmeyen yayıncı" uyarısı gösterebilir; "Ek bilgi"
 
 # Güncelleme Geçmişi
 
+## 0.5.0 — 2026-10-09
+
+- Giriş serisi: launcher ile her gün gir, ödülün büyüsün. 7. günden itibaren Oy Kasası, 15. günden itibaren Titan Kasası, 25. günden itibaren Ametist Kasası anahtarı; 15. ve 30. günde büyük kristal ikramiyesi. Serin ana sayfada görünür.
+- Pelerinler: Profiller sayfasındaki tişört düğmesinden sekiz pelerinden birini seç. Pelerinini Asura Launcher ile oynayan herkes görür.
+- Skin seçici: aynı yerden beğendiğin bir oyuncunun adını yaz, önizle ve skinini kullan.
+- Yeni Modlar sayfası: modları gruplar halinde gör, tek tıkla aç kapat. Hazır profiller: Sade, PvP, Yapı, Yayıncı.
+- Yeni seçmeli modlar: AppleSkin, Shulker Box Tooltip, zırh göstergesi, efekt süreleri, BetterF3, dinamik ışıklar, çerçevesiz tam ekran, Freelook, Litematica ve Mod Menu.
+- Yakınlaştırma artık WI Zoom ile: C tuşuna bas, fare tekerleğiyle yakınlığı ayarla.
+- ESC menüsü yenilendi: "Asura Menü" düğmesi grafik modlarını, göstergeleri ve Yayıncı Modu'nu tek bir panelde toplar.
+- Ana sayfada şu an oyunda olan oyuncuları görürsün.
+- Kristal göstergesi kaldırıldı; kristal sayın zaten TAB listesinde.
+
 ## 0.4.0 — 2026-10-09
 
 - Oyunun ana menüsüne "Asura SMP'ye Bağlan" düğmesi eklendi: tek tıkla sunucuya girersin.
