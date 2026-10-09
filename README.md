@@ -8,6 +8,10 @@ Windows ilk kurulumda "bilinmeyen yayıncı" uyarısı gösterebilir; "Ek bilgi"
 
 # Güncelleme Geçmişi
 
+## 0.6.1 — 2026-10-09
+
+- Bazı oyuncuların sırtında görünen "Update Cosmetica To V2" yazılı sarı pelerin düzeltildi.
+
 ## 0.6.0 — 2026-10-09
 
 - Kendi skinini yükle: Profiller sayfasından bilgisayarındaki skin dosyasını seç; sunucuya girdiğinde herkes onu görür. Orijinal hesap gerekmez.
