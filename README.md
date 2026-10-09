@@ -8,6 +8,12 @@ Windows ilk kurulumda "bilinmeyen yayıncı" uyarısı gösterebilir; "Ek bilgi"
 
 # Güncelleme Geçmişi
 
+## 0.7.2 — 2026-10-09
+
+- Arayüzü Düzenle'de göstergeler artık kendiliğinden hizalanıyor: sürüklediğin kutu ekran kenarlarına, ortaya ve diğer kutulara yapışır, pembe çizgi nereye oturduğunu gösterir.
+- Arayüzü Düzenle ekranında yalnızca açık olan göstergeler görünür.
+- Giriş ekranı sadeleşti: daha anlaşılır yazılar ve geçersiz oyuncu adında anında uyarı.
+
 ## 0.7.1 — 2026-10-09
 
 - Göstergeler ayrıldı: FPS, ping, koordinat, CPS, saat, yön ve efektler artık ayrı ayrı küçük kutular; her birini Arayüzü Düzenle ekranında tek tek taşıyabilirsin.
