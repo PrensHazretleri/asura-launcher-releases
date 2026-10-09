@@ -1,12 +1,12 @@
 [
   {
-    "title": "Sürüm 0.6.2",
-    "body": "• Launcher'dan açılan Yayıncı Modu artık oyundaki Asura Menü'den o oturum için kapatılabiliyor; oyunu yeniden açınca tekrar açık gelir.\n• Asura Menü'de \"Ekran Görüntüleri\" düğmesinin yazısı artık düğmeye sığıyor.",
+    "title": "Sürüm 0.6.3",
+    "body": "• \"Tam ekran başlat\" açıkken oyunda F11 ile tam ekrandan çıkılamıyordu; düzeltildi.",
     "date": "2026-10-09"
   },
   {
-    "title": "Sürüm 0.6.1",
-    "body": "• Bazı oyuncuların sırtında görünen \"Update Cosmetica To V2\" yazılı sarı pelerin düzeltildi.",
+    "title": "Sürüm 0.6.2",
+    "body": "• Launcher'dan açılan Yayıncı Modu artık oyundaki Asura Menü'den o oturum için kapatılabiliyor; oyunu yeniden açınca tekrar açık gelir.\n• Asura Menü'de \"Ekran Görüntüleri\" düğmesinin yazısı artık düğmeye sığıyor.",
     "date": "2026-10-09"
   }
 ]
