@@ -1,12 +1,12 @@
 [
   {
-    "title": "Sürüm 0.6.3",
-    "body": "• \"Tam ekran başlat\" açıkken oyunda F11 ile tam ekrandan çıkılamıyordu; düzeltildi.",
+    "title": "Sürüm 0.7.0",
+    "body": "• Asura Menü yenilendi: daha geniş, iki sütunlu yeni tasarım ve beş yeni gösterge: CPS, Zırh Durumu, Efektler, Saat ve Yön. Hepsi kapalı gelir, istediğini açarsın.\n• Yayıncı Modu açıkken Asura Menü'deki Koordinat anahtarı kilitlenir.\n• Yeni seçmeli mod: Xaero's Minimap (Modlar sayfasından açılır).\n• Launcher'a yeni arka plan ve açılış animasyonu eklendi.",
     "date": "2026-10-09"
   },
   {
-    "title": "Sürüm 0.6.2",
-    "body": "• Launcher'dan açılan Yayıncı Modu artık oyundaki Asura Menü'den o oturum için kapatılabiliyor; oyunu yeniden açınca tekrar açık gelir.\n• Asura Menü'de \"Ekran Görüntüleri\" düğmesinin yazısı artık düğmeye sığıyor.",
+    "title": "Sürüm 0.6.3",
+    "body": "• \"Tam ekran başlat\" açıkken oyunda F11 ile tam ekrandan çıkılamıyordu; düzeltildi.",
     "date": "2026-10-09"
   }
 ]
