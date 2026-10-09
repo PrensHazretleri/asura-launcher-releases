@@ -1,12 +1,12 @@
 [
   {
-    "title": "Sürüm 0.5.2",
-    "body": "• Oy ver: ana sayfada \"Bugün oy vermedin\" hatırlatıcısı. Düğmeye basınca oy sayfası açılır ve kullanıcı adın kopyalanır; siteye yapıştırman yeter.\n• Launcher'dan Yayıncı Modu: Ayarlar'dan aç, oyun her açılışta koordinatlar gizli başlasın. Açıkken koordinat gösteren modlar (BetterF3) kurulmaz.\n• Bilgisayarına göre ayarla: launcher RAM'ine ve ekran kartına bakıp ayrılacak RAM'i ve grafik modunu seçer. Yeni kurulumlarda kendiliğinden yapılır; Ayarlar'daki düğmeyle istediğin zaman tekrarlayabilirsin.\n• Sunucu durumu artık yanlışlıkla \"çevrimdışı\" görünmüyor.\n• …ve daha fazlası",
+    "title": "Sürüm 0.6.0",
+    "body": "• Kendi skinini yükle: Profiller sayfasından bilgisayarındaki skin dosyasını seç; sunucuya girdiğinde herkes onu görür. Orijinal hesap gerekmez.\n• Seriyle kazanılan pelerinler: Alev 7 günlük, Ay Yıldız 15 günlük, yeni Efsane pelerini 30 günlük giriş serisiyle açılır. Bir kez kazandığın pelerin serin bozulsa da kalır.\n• Asura Menü'ye yeni araçlar: Ekran Görüntüleri klasörü, Discord ve Oy Ver düğmeleri.\n• Oy ver: ana sayfada \"Bugün oy vermedin\" hatırlatıcısı. Düğmeye basınca oy sayfası açılır ve kullanıcı adın kopyalanır; siteye yapıştırman yeter.\n• …ve daha fazlası",
     "date": "2026-10-09"
   },
   {
-    "title": "Sürüm 0.5.0",
-    "body": "• Giriş serisi: launcher ile her gün gir, ödülün büyüsün. 7. günden itibaren Oy Kasası, 15. günden itibaren Titan Kasası, 25. günden itibaren Ametist Kasası anahtarı; 15. ve 30. günde büyük kristal ikramiyesi. Serin ana sayfada görünür.\n• Pelerinler: Profiller sayfasındaki tişört düğmesinden sekiz pelerinden birini seç. Pelerinini Asura Launcher ile oynayan herkes görür.\n• Skin seçici: aynı yerden beğendiğin bir oyuncunun adını yaz, önizle ve skinini kullan.\n• Yeni Modlar sayfası: modları gruplar halinde gör, tek tıkla aç kapat. Hazır profiller: Sade, PvP, Yapı, Yayıncı.\n• …ve daha fazlası",
+    "title": "Sürüm 0.5.2",
+    "body": "• Freelook modu kaldırıldı.",
     "date": "2026-10-09"
   }
 ]
