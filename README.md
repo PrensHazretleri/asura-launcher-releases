@@ -8,6 +8,10 @@ Windows ilk kurulumda "bilinmeyen yayıncı" uyarısı gösterebilir; "Ek bilgi"
 
 # Güncelleme Geçmişi
 
+## 1.1.0 — 2026-10-13
+
+- Sohbeti açınca FPS, ping ve diğer göstergeler artık kaybolmuyor; yazarken de ekranda kalır.
+
 ## 1.0.0 — 2026-10-09
 
 - Launcher girişi: sunucu şifreni launcher'a bir kez yaz, artık /login yazmadan gir. Şifren bilgisayarında şifrelenerek saklanır ve yalnızca Asura SMP sunucusuna gönderilir.
