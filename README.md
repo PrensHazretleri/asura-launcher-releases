@@ -8,6 +8,16 @@ Windows ilk kurulumda "bilinmeyen yayıncı" uyarısı gösterebilir; "Ek bilgi"
 
 # Güncelleme Geçmişi
 
+## 1.2.0 — 2026-10-15
+
+- Yeni ESC menüsü: ortada Asura logosu ve Oyuna Dön, Client Ayarları, Oyun Ayarları, Gelişimler, İstatistikler, Modlar, Bağlantıyı Kes; sağda karakterin ve Kozmetikler.
+- Kozmetikler: pelerinini artık oyunun içinden seçebilirsin. Taktığın pelerini herkes anında görür, launcher da seçimini hatırlar. Seriyle açılan pelerinler serin yetene kadar kilitli görünür.
+- Galeri: oyunda F2 ile çektiğin ekran görüntüleri launcher'daki yeni Galeri sekmesinde. Büyüt, tek tıkla kopyalayıp Discord'a yapıştır, klasörde göster ya da sil.
+- Etkinlikler: ana sayfada sıradaki sunucu etkinliği geri sayımla görünür.
+- Asura'nın yeni rengi kızıl: launcher ve oyun içi menüler yeni renklere büründü.
+- Launcher artık geniş ekran açılıyor ve açılışta Asura SMP yazısı masaüstünde beliriyor.
+- Ana sayfadaki ping artık doğru: oyunun sunucu listesinin gösterdiği değerle aynı.
+
 ## 1.1.0 — 2026-10-13
 
 - Sohbeti açınca FPS, ping ve diğer göstergeler artık kaybolmuyor; yazarken de ekranda kalır.
