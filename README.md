@@ -8,6 +8,11 @@ Windows ilk kurulumda "bilinmeyen yayıncı" uyarısı gösterebilir; "Ek bilgi"
 
 # Güncelleme Geçmişi
 
+## 1.2.1 — 2026-10-17
+
+- Xaero's Minimap mod listesinden kaldırıldı. Açık olanlarda bir sonraki OYNA'da kendiliğinden silinir.
+- Launcher güncellemeleri artık çok daha hızlı iniyor.
+
 ## 1.2.0 — 2026-10-15
 
 - Yeni ESC menüsü: ortada Asura logosu ve Oyuna Dön, Client Ayarları, Oyun Ayarları, Gelişimler, İstatistikler, Modlar, Bağlantıyı Kes; sağda karakterin ve Kozmetikler.
