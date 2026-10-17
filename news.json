@@ -5,13 +5,13 @@
     "date": "2026-10-09"
   },
   {
+    "title": "Sürüm 1.2.1",
+    "body": "• Xaero's Minimap mod listesinden kaldırıldı. Açık olanlarda bir sonraki OYNA'da kendiliğinden silinir.\n• Launcher güncellemeleri artık çok daha hızlı iniyor.",
+    "date": "2026-10-17"
+  },
+  {
     "title": "Sürüm 1.2.0",
     "body": "• Yeni ESC menüsü: ortada Asura logosu ve Oyuna Dön, Client Ayarları, Oyun Ayarları, Gelişimler, İstatistikler, Modlar, Bağlantıyı Kes; sağda karakterin ve Kozmetikler.\n• Kozmetikler: pelerinini artık oyunun içinden seçebilirsin. Taktığın pelerini herkes anında görür, launcher da seçimini hatırlar. Seriyle açılan pelerinler serin yetene kadar kilitli görünür.\n• Galeri: oyunda F2 ile çektiğin ekran görüntüleri launcher'daki yeni Galeri sekmesinde. Büyüt, tek tıkla kopyalayıp Discord'a yapıştır, klasörde göster ya da sil.\n• …ve daha fazlası",
     "date": "2026-10-15"
-  },
-  {
-    "title": "Sürüm 1.1.0",
-    "body": "• Sohbeti açınca FPS, ping ve diğer göstergeler artık kaybolmuyor; yazarken de ekranda kalır.",
-    "date": "2026-10-13"
   }
 ]
