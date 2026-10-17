@@ -1,17 +1,23 @@
 [
   {
+    "title": "Discord Hesap Eşleme",
+    "body": "Oyunda /esle yazıp Discord hesabını bağla, ödüllerini kap! Eşleyen herkese 3x Titan Kasası, 3x Spawner Kasası, 5x Para Kasası anahtarı, 100.000 TL ve Discord'da Büyük Asura rolü. Ödüller her hesaba bir kez verilir.",
+    "date": "2026-10-18",
+    "link": "https://discord.asurasmp.com"
+  },
+  {
     "title": "Asura Launcher 1.0.0 çıktı!",
     "body": "Artık /login yazmak yok: sunucu şifreni launcher'a bir kez kaydet, gerisini launcher halleder. Hesabını Discord'a bağlarsan şifreni unuttuğunda launcher'dan yenileyebilirsin. Günlük hediye, giriş serisi ve pelerinler bundan sonra yalnızca launcher girişi doğrulanan hesaplara verilir; şifreni Profiller sayfasındaki anahtar düğmesinden kaydetmeyi unutma.",
     "date": "2026-10-09"
   },
   {
+    "title": "Sürüm 1.2.2",
+    "body": "• Discord eşleme artık oyunda: sunucuda /esle yaz, çıkan kodu Discord sunucumuzda /esle ile gir. Launcher'daki \"Discord bağla\" düğmesi kaldırıldı.\n• /esle ile bağlı hesaplarda launcher'daki \"Şifremi unuttum\" çalışır.",
+    "date": "2026-10-18"
+  },
+  {
     "title": "Sürüm 1.2.1",
     "body": "• Xaero's Minimap mod listesinden kaldırıldı. Açık olanlarda bir sonraki OYNA'da kendiliğinden silinir.\n• Launcher güncellemeleri artık çok daha hızlı iniyor.",
     "date": "2026-10-17"
-  },
-  {
-    "title": "Sürüm 1.2.0",
-    "body": "• Yeni ESC menüsü: ortada Asura logosu ve Oyuna Dön, Client Ayarları, Oyun Ayarları, Gelişimler, İstatistikler, Modlar, Bağlantıyı Kes; sağda karakterin ve Kozmetikler.\n• Kozmetikler: pelerinini artık oyunun içinden seçebilirsin. Taktığın pelerini herkes anında görür, launcher da seçimini hatırlar. Seriyle açılan pelerinler serin yetene kadar kilitli görünür.\n• Galeri: oyunda F2 ile çektiğin ekran görüntüleri launcher'daki yeni Galeri sekmesinde. Büyüt, tek tıkla kopyalayıp Discord'a yapıştır, klasörde göster ya da sil.\n• …ve daha fazlası",
-    "date": "2026-10-15"
   }
 ]
