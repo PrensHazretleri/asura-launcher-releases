@@ -8,6 +8,11 @@ Windows ilk kurulumda "bilinmeyen yayıncı" uyarısı gösterebilir; "Ek bilgi"
 
 # Güncelleme Geçmişi
 
+## 1.2.2 — 2026-10-18
+
+- Discord eşleme artık oyunda: sunucuda /esle yaz, çıkan kodu Discord sunucumuzda /esle ile gir. Launcher'daki "Discord bağla" düğmesi kaldırıldı.
+- /esle ile bağlı hesaplarda launcher'daki "Şifremi unuttum" çalışır.
+
 ## 1.2.1 — 2026-10-17
 
 - Xaero's Minimap mod listesinden kaldırıldı. Açık olanlarda bir sonraki OYNA'da kendiliğinden silinir.
