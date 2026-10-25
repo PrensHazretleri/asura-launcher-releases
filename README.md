@@ -8,6 +8,11 @@ Windows ilk kurulumda "bilinmeyen yayıncı" uyarısı gösterebilir; "Ek bilgi"
 
 # Güncelleme Geçmişi
 
+## 1.2.4 — 2026-10-25
+
+- 1.2.3'te launcher açılırken hata veriyordu, düzeltildi. 1.2.3'ü aldıysan launcher'ı launcher.asurasmp.com/indir adresinden indirip tekrar kur.
+- Yeni grafik modu: Ultra Performans. Zayıf bilgisayarlar için en yüksek FPS: en kısa görüş mesafesi, tüm efektler kısık, VSync ve FPS sınırı kapalı. Oyunda Asura menüsünden seçebilirsin.
+
 ## 1.2.3 — 2026-10-25
 
 - Yeni grafik modu: Ultra Performans. Zayıf bilgisayarlar için en yüksek FPS: en kısa görüş mesafesi, tüm efektler kısık, VSync ve FPS sınırı kapalı. Oyunda Asura menüsünden seçebilirsin.
