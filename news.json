@@ -11,13 +11,13 @@
     "date": "2026-10-09"
   },
   {
+    "title": "Sürüm 1.2.3",
+    "body": "• Yeni grafik modu: Ultra Performans. Zayıf bilgisayarlar için en yüksek FPS: en kısa görüş mesafesi, tüm efektler kısık, VSync ve FPS sınırı kapalı. Oyunda Asura menüsünden seçebilirsin.",
+    "date": "2026-10-25"
+  },
+  {
     "title": "Sürüm 1.2.2",
     "body": "• Discord eşleme artık oyunda: sunucuda /esle yaz, çıkan kodu Discord sunucumuzda /esle ile gir. Launcher'daki \"Discord bağla\" düğmesi kaldırıldı.\n• /esle ile bağlı hesaplarda launcher'daki \"Şifremi unuttum\" çalışır.",
     "date": "2026-10-18"
-  },
-  {
-    "title": "Sürüm 1.2.1",
-    "body": "• Xaero's Minimap mod listesinden kaldırıldı. Açık olanlarda bir sonraki OYNA'da kendiliğinden silinir.\n• Launcher güncellemeleri artık çok daha hızlı iniyor.",
-    "date": "2026-10-17"
   }
 ]
