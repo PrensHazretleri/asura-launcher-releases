@@ -11,13 +11,13 @@
     "date": "2026-10-09"
   },
   {
-    "title": "Sürüm 1.2.3",
-    "body": "• Yeni grafik modu: Ultra Performans. Zayıf bilgisayarlar için en yüksek FPS: en kısa görüş mesafesi, tüm efektler kısık, VSync ve FPS sınırı kapalı. Oyunda Asura menüsünden seçebilirsin.",
+    "title": "Sürüm 1.2.4",
+    "body": "• 1.2.3'te launcher açılırken hata veriyordu, düzeltildi. 1.2.3'ü aldıysan launcher'ı launcher.asurasmp.com/indir adresinden indirip tekrar kur.\n• Yeni grafik modu: Ultra Performans. Zayıf bilgisayarlar için en yüksek FPS: en kısa görüş mesafesi, tüm efektler kısık, VSync ve FPS sınırı kapalı. Oyunda Asura menüsünden seçebilirsin.",
     "date": "2026-10-25"
   },
   {
-    "title": "Sürüm 1.2.2",
-    "body": "• Discord eşleme artık oyunda: sunucuda /esle yaz, çıkan kodu Discord sunucumuzda /esle ile gir. Launcher'daki \"Discord bağla\" düğmesi kaldırıldı.\n• /esle ile bağlı hesaplarda launcher'daki \"Şifremi unuttum\" çalışır.",
-    "date": "2026-10-18"
+    "title": "Sürüm 1.2.3",
+    "body": "• Yeni grafik modu: Ultra Performans. Zayıf bilgisayarlar için en yüksek FPS: en kısa görüş mesafesi, tüm efektler kısık, VSync ve FPS sınırı kapalı. Oyunda Asura menüsünden seçebilirsin.",
+    "date": "2026-10-25"
   }
 ]
