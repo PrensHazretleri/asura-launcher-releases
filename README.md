@@ -8,6 +8,10 @@ Windows ilk kurulumda "bilinmeyen yayıncı" uyarısı gösterebilir; "Ek bilgi"
 
 # Güncelleme Geçmişi
 
+## 1.2.3 — 2026-10-25
+
+- Yeni grafik modu: Ultra Performans. Zayıf bilgisayarlar için en yüksek FPS: en kısa görüş mesafesi, tüm efektler kısık, VSync ve FPS sınırı kapalı. Oyunda Asura menüsünden seçebilirsin.
+
 ## 1.2.2 — 2026-10-18
 
 - Discord eşleme artık oyunda: sunucuda /esle yaz, çıkan kodu Discord sunucumuzda /esle ile gir. Launcher'daki "Discord bağla" düğmesi kaldırıldı.
