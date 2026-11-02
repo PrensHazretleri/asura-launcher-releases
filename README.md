@@ -8,6 +8,10 @@ Windows ilk kurulumda "bilinmeyen yayıncı" uyarısı gösterebilir; "Ek bilgi"
 
 # Güncelleme Geçmişi
 
+## 1.3.0 — 2026-11-02
+
+- Otomatik yeniden bağlanma: sunucu yeniden başlatıldığında ya da bağlantın koptuğunda oyun sunucu açılana kadar kendiliğinden yeniden bağlanmayı dener (en fazla 30 dakika). Ekrandaki düğmeyle iptal edebilirsin. "Bağlantıyı Kes" ile çıktığında, kick ya da ban yediğinde yeniden bağlanmaz.
+
 ## 1.2.4 — 2026-10-25
 
 - 1.2.3'te launcher açılırken hata veriyordu, düzeltildi. 1.2.3'ü aldıysan launcher'ı launcher.asurasmp.com/indir adresinden indirip tekrar kur.
