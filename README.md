@@ -8,6 +8,12 @@ Windows ilk kurulumda "bilinmeyen yayıncı" uyarısı gösterebilir; "Ek bilgi"
 
 # Güncelleme Geçmişi
 
+## 1.5.0 — 2026-11-03
+
+- Yeni mod: Freelook. Sol Alt'ı basılı tutunca yürüdüğün yönü değiştirmeden etrafına bakabilirsin.
+- Yeni mod: Mouse Tweaks. Envanterde fareyi sürükleyerek eşyaları hızlıca taşır, dağıtır ve toplarsın.
+- İkisi de bütün sürümlerde kurulu gelir; istemezsen "Modlar" sayfasından kapatabilirsin.
+
 ## 1.4.1 — 2026-11-03
 
 - 1.21 sürümü bazı modlar açıkken (ör. Effect Timer Plus) açılmıyordu, düzeltildi.
