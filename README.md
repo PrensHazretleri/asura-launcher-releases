@@ -8,6 +8,10 @@ Windows ilk kurulumda "bilinmeyen yayıncı" uyarısı gösterebilir; "Ek bilgi"
 
 # Güncelleme Geçmişi
 
+## 1.4.0 — 2026-11-03
+
+- Yeni sürümler: Minecraft 26.3 ve 1.21 artık launcher'da. Sürüm listesinden seçip oynayabilirsin; diğer sürümler aynen duruyor.
+
 ## 1.3.0 — 2026-11-02
 
 - Otomatik yeniden bağlanma: sunucu yeniden başlatıldığında ya da bağlantın koptuğunda oyun sunucu açılana kadar kendiliğinden yeniden bağlanmayı dener (en fazla 30 dakika). Ekrandaki düğmeyle iptal edebilirsin. "Bağlantıyı Kes" ile çıktığında, kick ya da ban yediğinde yeniden bağlanmaz.
