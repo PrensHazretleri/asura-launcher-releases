@@ -8,6 +8,10 @@ Windows ilk kurulumda "bilinmeyen yayıncı" uyarısı gösterebilir; "Ek bilgi"
 
 # Güncelleme Geçmişi
 
+## 1.4.1 — 2026-11-03
+
+- 1.21 sürümü bazı modlar açıkken (ör. Effect Timer Plus) açılmıyordu, düzeltildi.
+
 ## 1.4.0 — 2026-11-03
 
 - Yeni sürümler: Minecraft 26.3 ve 1.21 artık launcher'da. Sürüm listesinden seçip oynayabilirsin; diğer sürümler aynen duruyor.
