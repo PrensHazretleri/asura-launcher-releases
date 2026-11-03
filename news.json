@@ -11,13 +11,13 @@
     "date": "2026-10-09"
   },
   {
-    "title": "Sürüm 1.4.1",
-    "body": "• 1.21 sürümü bazı modlar açıkken (ör. Effect Timer Plus) açılmıyordu, düzeltildi.",
+    "title": "Sürüm 1.5.0",
+    "body": "• Yeni mod: Freelook. Sol Alt'ı basılı tutunca yürüdüğün yönü değiştirmeden etrafına bakabilirsin.\n• Yeni mod: Mouse Tweaks. Envanterde fareyi sürükleyerek eşyaları hızlıca taşır, dağıtır ve toplarsın.\n• İkisi de bütün sürümlerde kurulu gelir; istemezsen \"Modlar\" sayfasından kapatabilirsin.",
     "date": "2026-11-03"
   },
   {
-    "title": "Sürüm 1.4.0",
-    "body": "• Yeni sürümler: Minecraft 26.3 ve 1.21 artık launcher'da. Sürüm listesinden seçip oynayabilirsin; diğer sürümler aynen duruyor.",
+    "title": "Sürüm 1.4.1",
+    "body": "• 1.21 sürümü bazı modlar açıkken (ör. Effect Timer Plus) açılmıyordu, düzeltildi.",
     "date": "2026-11-03"
   }
 ]
