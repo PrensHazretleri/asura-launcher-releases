@@ -11,13 +11,13 @@
     "date": "2026-10-09"
   },
   {
-    "title": "Sürüm 1.4.0",
-    "body": "• Yeni sürümler: Minecraft 26.3 ve 1.21 artık launcher'da. Sürüm listesinden seçip oynayabilirsin; diğer sürümler aynen duruyor.",
+    "title": "Sürüm 1.4.1",
+    "body": "• 1.21 sürümü bazı modlar açıkken (ör. Effect Timer Plus) açılmıyordu, düzeltildi.",
     "date": "2026-11-03"
   },
   {
-    "title": "Sürüm 1.3.0",
-    "body": "• Otomatik yeniden bağlanma: sunucu yeniden başlatıldığında ya da bağlantın koptuğunda oyun sunucu açılana kadar kendiliğinden yeniden bağlanmayı dener (en fazla 30 dakika). Ekrandaki düğmeyle iptal edebilirsin. \"Bağlantıyı Kes\" ile çıktığında, kick ya da ban yediğinde yeniden bağlanmaz.",
-    "date": "2026-11-02"
+    "title": "Sürüm 1.4.0",
+    "body": "• Yeni sürümler: Minecraft 26.3 ve 1.21 artık launcher'da. Sürüm listesinden seçip oynayabilirsin; diğer sürümler aynen duruyor.",
+    "date": "2026-11-03"
   }
 ]
