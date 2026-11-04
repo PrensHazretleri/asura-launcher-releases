@@ -11,13 +11,13 @@
     "date": "2026-10-09"
   },
   {
-    "title": "Sürüm 1.5.0",
-    "body": "• Yeni mod: Freelook. Sol Alt'ı basılı tutunca yürüdüğün yönü değiştirmeden etrafına bakabilirsin.\n• Yeni mod: Mouse Tweaks. Envanterde fareyi sürükleyerek eşyaları hızlıca taşır, dağıtır ve toplarsın.\n• İkisi de bütün sürümlerde kurulu gelir; istemezsen \"Modlar\" sayfasından kapatabilirsin.",
-    "date": "2026-11-03"
+    "title": "Sürüm 1.5.1",
+    "body": "• Yayıncı modu açıkken F3+B (hitbox) ve F3+G (chunk sınırları) artık çalışıyor; koordinatlar F3 ekranında yine gizli.\n• F3+B veya F3+G açıkken Asura göstergeleri artık kaybolmuyor.\n• 26.3'te sunucudan çıkınca oyunun çökmesi düzeltildi.",
+    "date": "2026-11-04"
   },
   {
-    "title": "Sürüm 1.4.1",
-    "body": "• 1.21 sürümü bazı modlar açıkken (ör. Effect Timer Plus) açılmıyordu, düzeltildi.",
+    "title": "Sürüm 1.5.0",
+    "body": "• Yeni mod: Freelook. Sol Alt'ı basılı tutunca yürüdüğün yönü değiştirmeden etrafına bakabilirsin.\n• Yeni mod: Mouse Tweaks. Envanterde fareyi sürükleyerek eşyaları hızlıca taşır, dağıtır ve toplarsın.\n• İkisi de bütün sürümlerde kurulu gelir; istemezsen \"Modlar\" sayfasından kapatabilirsin.",
     "date": "2026-11-03"
   }
 ]
