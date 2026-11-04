@@ -8,6 +8,12 @@ Windows ilk kurulumda "bilinmeyen yayıncı" uyarısı gösterebilir; "Ek bilgi"
 
 # Güncelleme Geçmişi
 
+## 1.5.1 — 2026-11-04
+
+- Yayıncı modu açıkken F3+B (hitbox) ve F3+G (chunk sınırları) artık çalışıyor; koordinatlar F3 ekranında yine gizli.
+- F3+B veya F3+G açıkken Asura göstergeleri artık kaybolmuyor.
+- 26.3'te sunucudan çıkınca oyunun çökmesi düzeltildi.
+
 ## 1.5.0 — 2026-11-03
 
 - Yeni mod: Freelook. Sol Alt'ı basılı tutunca yürüdüğün yönü değiştirmeden etrafına bakabilirsin.
