@@ -8,6 +8,12 @@ Windows ilk kurulumda "bilinmeyen yayıncı" uyarısı gösterebilir; "Ek bilgi"
 
 # Güncelleme Geçmişi
 
+## 1.6.0 — 2026-11-10
+
+- Yeni (deneysel): 26.3 Rust Edition. Minecraft 26.3'ün Rust ile yeniden yazılmış hali (Horizon); bizim testimizde yaklaşık 3 kat FPS. Sürüm listesinden "26.3 Rust Edition (deneysel)" seçip oynayabilirsin, varsayılan sürüm yine Fabric 26.3.
+- İlk açılışta kendini kurar (1,5-2 dakika, diskte yaklaşık 1,5 GB) ve direkt play.asurasmp.com'a bağlanır.
+- Rust Edition'da henüz otomatik giriş, ödüller, pelerin, sesli sohbet, modlar ve shader yok: /giris şifreni kendin yazarsın. Vulkan veya DirectX 12 destekleyen ekran kartı ister.
+
 ## 1.5.1 — 2026-11-04
 
 - Yayıncı modu açıkken F3+B (hitbox) ve F3+G (chunk sınırları) artık çalışıyor; koordinatlar F3 ekranında yine gizli.
