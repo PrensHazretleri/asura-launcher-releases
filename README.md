@@ -8,6 +8,14 @@ Windows ilk kurulumda "bilinmeyen yayıncı" uyarısı gösterebilir; "Ek bilgi"
 
 # Güncelleme Geçmişi
 
+## 2.2.0 — 2026-11-12
+
+- Rust Edition için 5 grafik ayarı: Ultra Performans, Performans, Normal, Kalite ve Ultra. Launcher'da Ayarlar > Rust Edition Grafik Ayarı'ndan seçersin, oyunu açınca uygulanır. Bizim testimizde Ultra Performans Ultra'nın yaklaşık 3,5 katı FPS verdi.
+- Seçtiğin ayar yalnızca bir kez yazılır: sonra oyunda değiştirdiğin ayarlar sen yeni bir ayar seçene kadar kalır. Performans ayarlarının kapattığı VSync, FPS sınırı ve shader, başka bir ayara geçince geri gelir.
+- "Bilgisayarıma göre ayarla" artık Rust Edition için de uygun grafik ayarını seçer.
+- Rust Edition'daki AsuraSMP Ayarları sayfalarının hepsi artık Türkçe (PvP ve HUD, kontrolcü, modlar, ekstralar, HDR dahil).
+- Ayarlar sayfasının bazen hiç açılmaması düzeltildi.
+
 ## 2.1.0 — 2026-11-12
 
 - Bitdefender gibi bazı antivirüs programlarının Rust Edition'ı açtıktan sonra launcher'ı engellemesi düzeltildi: launcher artık arka planda PowerShell çalıştırmıyor. Launcher'ın açılmıyorsa launcher.asurasmp.com/indir adresinden yeniden kur.
