@@ -23,6 +23,7 @@ Windows ilk kurulumda "bilinmeyen yayıncı" uyarısı gösterebilir; "Ek bilgi"
 - Rust Edition sesli sohbetinde gruplar: oyunda O'ya (ya da V ekranındaki "Grup"a) basınca gruba katılabilir, şifreli ya da şifresiz grup kurabilir, gruptan ayrılabilirsin. Gruptakiler birbirini her yerden duyar; Simple Voice Chat kullananlarla aynı gruplar.
 - Rust Edition'da launcher artık sunucuya kendini tanıtıyor (sesli sohbet kapalıyken de): launcher'da kayıtlı şifrenle otomatik giriş yaparsın, günlük ödüllerini alırsın, launcher'da seçtiğin skin uygulanır ve pelerinini Fabric'te oynayanlar görür.
 - OBS'de "Oyun Yakalama" kullanan yayıncılar için ses simgesi: Ayarlar > Rust Edition Sesli Sohbet'teki adresi OBS'ye "Tarayıcı" kaynağı olarak ekleyince simge yayında da görünür.
+- 1.21.4 launcher'ın sürüm listesinden kaldırıldı; neredeyse kimse oynamıyordu. 1.21.4 seçili olanlar 26.3 ile açılır. O sürümdeki dünyaların ve ekran görüntülerin silinmez, Galeri'de görünmeye devam eder.
 
 ## 1.6.0 — 2026-11-10
 
