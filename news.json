@@ -11,13 +11,13 @@
     "date": "2026-10-09"
   },
   {
-    "title": "Sürüm 1.6.0",
-    "body": "• Yeni (deneysel): 26.3 Rust Edition. Minecraft 26.3'ün Rust ile yeniden yazılmış hali (Horizon); bizim testimizde yaklaşık 3 kat FPS. Sürüm listesinden \"26.3 Rust Edition (deneysel)\" seçip oynayabilirsin, varsayılan sürüm yine Fabric 26.3.\n• İlk açılışta kendini kurar (1,5-2 dakika, diskte yaklaşık 1,5 GB) ve direkt play.asurasmp.com'a bağlanır.\n• Rust Edition'da henüz otomatik giriş, ödüller, pelerin, sesli sohbet, modlar ve shader yok: /giris şifreni kendin yazarsın. Vulkan veya DirectX 12 destekleyen ekran kartı ister.",
-    "date": "2026-11-10"
+    "title": "Sürüm 2.0.0",
+    "body": "• Asura Launcher 2.0: Rust Edition artık sesli sohbet, gruplar, Asura menüsü, otomatik giriş, günlük ödüller ve pelerinlerle geliyor.\n• Rust Edition'da ESC menüsünde yeni \"Asura SMP\" düğmesi: sesli sohbet, gruplar, pelerin seçimi (Kozmetikler), günlük ödül durumu ve Discord tek yerde. Oyunda seçtiğin pelerini launcher da hatırlar.\n• Rust Edition açılırken artık \"Horizon\" yazısı yerine Asura SMP açılış ekranı görünür; pencerenin adı ve simgesi de baştan Asura SMP.\n• …ve daha fazlası",
+    "date": "2026-11-12"
   },
   {
-    "title": "Sürüm 1.5.1",
-    "body": "• Yayıncı modu açıkken F3+B (hitbox) ve F3+G (chunk sınırları) artık çalışıyor; koordinatlar F3 ekranında yine gizli.\n• F3+B veya F3+G açıkken Asura göstergeleri artık kaybolmuyor.\n• 26.3'te sunucudan çıkınca oyunun çökmesi düzeltildi.",
-    "date": "2026-11-04"
+    "title": "Sürüm 1.6.0",
+    "body": "• Yeni (deneysel): 26.3 Rust Edition. Minecraft 26.3'ün Rust ile yeniden yazılmış hali (Horizon); bizim testimizde yaklaşık 3 kat FPS. Sürüm listesinden \"26.3 Rust Edition (deneysel)\" seçip oynayabilirsin, varsayılan sürüm yine Fabric 26.3.\n• RAM: Aynı bilgisayarda play.asurasmp.com'da, görüş mesafesi 12'de Görev Yöneticisi'ne göre normal 26.3 ~1,75 GB, Rust Edition ~0,78 GB kullandı (yaklaşık %55 daha az). Rust Edition dünya verisinin bir kısmını ekran kartı belleğinde tutuyor.\n• …ve daha fazlası",
+    "date": "2026-11-10"
   }
 ]
