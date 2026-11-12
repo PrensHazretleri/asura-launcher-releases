@@ -11,13 +11,13 @@
     "date": "2026-10-09"
   },
   {
-    "title": "Sürüm 2.1.0",
-    "body": "• Bitdefender gibi bazı antivirüs programlarının Rust Edition'ı açtıktan sonra launcher'ı engellemesi düzeltildi: launcher artık arka planda PowerShell çalıştırmıyor. Launcher'ın açılmıyorsa launcher.asurasmp.com/indir adresinden yeniden kur.\n• Rust Edition'da Asura açılış ekranı artık sunucuya bağlanıp dünya yüklenene kadar kalır ve Asura SMP'nin kaynak paketi \"Evet / Hayır\" sorusu olmadan gelir (2.0.0'ı ilk saatlerde indirenler için).",
+    "title": "Sürüm 2.2.0",
+    "body": "• Rust Edition için 5 grafik ayarı: Ultra Performans, Performans, Normal, Kalite ve Ultra. Launcher'da Ayarlar > Rust Edition Grafik Ayarı'ndan seçersin, oyunu açınca uygulanır. Bizim testimizde Ultra Performans Ultra'nın yaklaşık 3,5 katı FPS verdi.\n• Seçtiğin ayar yalnızca bir kez yazılır: sonra oyunda değiştirdiğin ayarlar sen yeni bir ayar seçene kadar kalır. Performans ayarlarının kapattığı VSync, FPS sınırı ve shader, başka bir ayara geçince geri gelir.\n• \"Bilgisayarıma göre ayarla\" artık Rust Edition için de uygun grafik ayarını seçer.\n• …ve daha fazlası",
     "date": "2026-11-12"
   },
   {
-    "title": "Sürüm 2.0.0",
-    "body": "• Asura Launcher 2.0: Rust Edition artık sesli sohbet, gruplar, Asura menüsü, otomatik giriş, günlük ödüller ve pelerinlerle geliyor.\n• 1.21.4 launcher'ın sürüm listesinden kaldırıldı; neredeyse kimse oynamıyordu. 1.21.4 seçili olanlar 26.3 ile açılır. O sürümdeki dünyaların ve ekran görüntülerin silinmez, Galeri'de görünmeye devam eder.\n• Launcher'dan girenler Asura SMP'nin kaynak paketini artık \"Evet / Hayır\" sorusu olmadan, doğrudan alır.\n• …ve daha fazlası",
+    "title": "Sürüm 2.1.0",
+    "body": "• Bitdefender gibi bazı antivirüs programlarının Rust Edition'ı açtıktan sonra launcher'ı engellemesi düzeltildi: launcher artık arka planda PowerShell çalıştırmıyor. Launcher'ın açılmıyorsa launcher.asurasmp.com/indir adresinden yeniden kur.\n• Rust Edition'da Asura açılış ekranı artık sunucuya bağlanıp dünya yüklenene kadar kalır ve Asura SMP'nin kaynak paketi \"Evet / Hayır\" sorusu olmadan gelir (2.0.0'ı ilk saatlerde indirenler için).",
     "date": "2026-11-12"
   }
 ]
