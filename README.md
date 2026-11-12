@@ -11,6 +11,7 @@ Windows ilk kurulumda "bilinmeyen yayıncı" uyarısı gösterebilir; "Ek bilgi"
 ## 2.0.0 — 2026-11-12
 
 - Asura Launcher 2.0: Rust Edition artık sesli sohbet, gruplar, Asura menüsü, otomatik giriş, günlük ödüller ve pelerinlerle geliyor.
+- 1.21.4 launcher'ın sürüm listesinden kaldırıldı; neredeyse kimse oynamıyordu. 1.21.4 seçili olanlar 26.3 ile açılır. O sürümdeki dünyaların ve ekran görüntülerin silinmez, Galeri'de görünmeye devam eder.
 - Rust Edition'da ESC menüsünde yeni "Asura SMP" düğmesi: sesli sohbet, gruplar, pelerin seçimi (Kozmetikler), günlük ödül durumu ve Discord tek yerde. Oyunda seçtiğin pelerini launcher da hatırlar.
 - Rust Edition açılırken artık "Horizon" yazısı yerine Asura SMP açılış ekranı görünür; pencerenin adı ve simgesi de baştan Asura SMP.
 - Yeni medya pelerinleri: YouTube, TikTok, Instagram ve Kick. Yalnızca medya rolündeki oyunculara açık, oyunda Kozmetikler'den seçilir.
@@ -23,7 +24,6 @@ Windows ilk kurulumda "bilinmeyen yayıncı" uyarısı gösterebilir; "Ek bilgi"
 - Rust Edition sesli sohbetinde gruplar: oyunda O'ya (ya da V ekranındaki "Grup"a) basınca gruba katılabilir, şifreli ya da şifresiz grup kurabilir, gruptan ayrılabilirsin. Gruptakiler birbirini her yerden duyar; Simple Voice Chat kullananlarla aynı gruplar.
 - Rust Edition'da launcher artık sunucuya kendini tanıtıyor (sesli sohbet kapalıyken de): launcher'da kayıtlı şifrenle otomatik giriş yaparsın, günlük ödüllerini alırsın, launcher'da seçtiğin skin uygulanır ve pelerinini Fabric'te oynayanlar görür.
 - OBS'de "Oyun Yakalama" kullanan yayıncılar için ses simgesi: Ayarlar > Rust Edition Sesli Sohbet'teki adresi OBS'ye "Tarayıcı" kaynağı olarak ekleyince simge yayında da görünür.
-- 1.21.4 launcher'ın sürüm listesinden kaldırıldı; neredeyse kimse oynamıyordu. 1.21.4 seçili olanlar 26.3 ile açılır. O sürümdeki dünyaların ve ekran görüntülerin silinmez, Galeri'de görünmeye devam eder.
 
 ## 1.6.0 — 2026-11-10
 
