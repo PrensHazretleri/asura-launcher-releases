@@ -8,11 +8,29 @@ Windows ilk kurulumda "bilinmeyen yayıncı" uyarısı gösterebilir; "Ek bilgi"
 
 # Güncelleme Geçmişi
 
+## 2.0.0 — 2026-11-12
+
+- Asura Launcher 2.0: Rust Edition artık sesli sohbet, gruplar, Asura menüsü, otomatik giriş, günlük ödüller ve pelerinlerle geliyor.
+- Rust Edition'da ESC menüsünde yeni "Asura SMP" düğmesi: sesli sohbet, gruplar, pelerin seçimi (Kozmetikler), günlük ödül durumu ve Discord tek yerde. Oyunda seçtiğin pelerini launcher da hatırlar.
+- Rust Edition açılırken artık "Horizon" yazısı yerine Asura SMP açılış ekranı görünür; pencerenin adı ve simgesi de baştan Asura SMP.
+- Yeni medya pelerinleri: YouTube, TikTok, Instagram ve Kick. Yalnızca medya rolündeki oyunculara açık, oyunda Kozmetikler'den seçilir.
+- Yeni: Rust Edition'da sesli sohbet. Launcher mikrofonunu sunucuya taşır; yakındaki oyuncuları duyarsın, Fabric'te Simple Voice Chat kullananlar da seni duyar. Oyun açıkken launcher'ı kapatma.
+- Bas-konuş tuşu varsayılan olarak Caps Lock (Simple Voice Chat'teki gibi). Oyunda V'ye basınca sesli sohbet ayarları açılır: ses seviyesi, bas-konuş / sesle açılma, eşik, mikrofon, mikrofonu kapat, sesi tamamen kapat.
+- Tuşları kendin seçebilirsin: Ayarlar > Rust Edition Sesli Sohbet'te "Değiştir"e ya da oyundaki ayar ekranında "Tuşu değiştir"e basıp istediğin tuşa (fare yan tuşları dahil) bas.
+- Tuşlar yalnızca oyun penceresi öndeyken ve sohbet kapalıyken çalışır; sohbete yazarken mikrofon açılmaz.
+- Sunucunun kuralları Rust Edition'da da geçerli: sesli sohbet susturması ve /seskayit onayı olmadan konuşamazsın, ama diğerlerini duyarsın.
+- Rust Edition artık Görev Yöneticisi'nde ve Discord'da "Horizon" yerine Asura SMP adı ve simgesiyle görünür.
+- Rust Edition sesli sohbetinde gruplar: oyunda O'ya (ya da V ekranındaki "Grup"a) basınca gruba katılabilir, şifreli ya da şifresiz grup kurabilir, gruptan ayrılabilirsin. Gruptakiler birbirini her yerden duyar; Simple Voice Chat kullananlarla aynı gruplar.
+- Rust Edition'da launcher artık sunucuya kendini tanıtıyor (sesli sohbet kapalıyken de): launcher'da kayıtlı şifrenle otomatik giriş yaparsın, günlük ödüllerini alırsın, launcher'da seçtiğin skin uygulanır ve pelerinini Fabric'te oynayanlar görür.
+- OBS'de "Oyun Yakalama" kullanan yayıncılar için ses simgesi: Ayarlar > Rust Edition Sesli Sohbet'teki adresi OBS'ye "Tarayıcı" kaynağı olarak ekleyince simge yayında da görünür.
+
 ## 1.6.0 — 2026-11-10
 
 - Yeni (deneysel): 26.3 Rust Edition. Minecraft 26.3'ün Rust ile yeniden yazılmış hali (Horizon); bizim testimizde yaklaşık 3 kat FPS. Sürüm listesinden "26.3 Rust Edition (deneysel)" seçip oynayabilirsin, varsayılan sürüm yine Fabric 26.3.
+- RAM: Aynı bilgisayarda play.asurasmp.com'da, görüş mesafesi 12'de Görev Yöneticisi'ne göre normal 26.3 ~1,75 GB, Rust Edition ~0,78 GB kullandı (yaklaşık %55 daha az). Rust Edition dünya verisinin bir kısmını ekran kartı belleğinde tutuyor.
+- İçinde hazır gelenler (Seçenekler > AsuraSMP Ayarları): Mouse Tweaks, envanter sıralama, Fullbright, dinamik ışık, otomatik yeniden bağlanma, akıcı sohbet, özel nişangah, FPS / koordinat / ping / tuş göstergeleri.
 - İlk açılışta kendini kurar (1,5-2 dakika, diskte yaklaşık 1,5 GB) ve direkt play.asurasmp.com'a bağlanır.
-- Rust Edition'da henüz otomatik giriş, ödüller, pelerin, sesli sohbet, modlar ve shader yok: /giris şifreni kendin yazarsın. Vulkan veya DirectX 12 destekleyen ekran kartı ister.
+- Rust Edition'da henüz otomatik giriş, ödüller, pelerin, sesli sohbet, Fabric modları, shader, zoom ve mini harita yok: /giris şifreni kendin yazarsın. Vulkan veya DirectX 12 destekleyen ekran kartı ister.
 
 ## 1.5.1 — 2026-11-04
 
