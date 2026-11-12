@@ -8,6 +8,11 @@ Windows ilk kurulumda "bilinmeyen yayıncı" uyarısı gösterebilir; "Ek bilgi"
 
 # Güncelleme Geçmişi
 
+## 2.1.0 — 2026-11-12
+
+- Bitdefender gibi bazı antivirüs programlarının Rust Edition'ı açtıktan sonra launcher'ı engellemesi düzeltildi: launcher artık arka planda PowerShell çalıştırmıyor. Launcher'ın açılmıyorsa launcher.asurasmp.com/indir adresinden yeniden kur.
+- Rust Edition'da Asura açılış ekranı artık sunucuya bağlanıp dünya yüklenene kadar kalır ve Asura SMP'nin kaynak paketi "Evet / Hayır" sorusu olmadan gelir (2.0.0'ı ilk saatlerde indirenler için).
+
 ## 2.0.0 — 2026-11-12
 
 - Asura Launcher 2.0: Rust Edition artık sesli sohbet, gruplar, Asura menüsü, otomatik giriş, günlük ödüller ve pelerinlerle geliyor.
