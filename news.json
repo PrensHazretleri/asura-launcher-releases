@@ -11,13 +11,13 @@
     "date": "2026-10-09"
   },
   {
-    "title": "Sürüm 2.0.0",
-    "body": "• Asura Launcher 2.0: Rust Edition artık sesli sohbet, gruplar, Asura menüsü, otomatik giriş, günlük ödüller ve pelerinlerle geliyor.\n• 1.21.4 launcher'ın sürüm listesinden kaldırıldı; neredeyse kimse oynamıyordu. 1.21.4 seçili olanlar 26.3 ile açılır. O sürümdeki dünyaların ve ekran görüntülerin silinmez, Galeri'de görünmeye devam eder.\n• Launcher'dan girenler Asura SMP'nin kaynak paketini artık \"Evet / Hayır\" sorusu olmadan, doğrudan alır.\n• …ve daha fazlası",
+    "title": "Sürüm 2.1.0",
+    "body": "• Bitdefender gibi bazı antivirüs programlarının Rust Edition'ı açtıktan sonra launcher'ı engellemesi düzeltildi: launcher artık arka planda PowerShell çalıştırmıyor. Launcher'ın açılmıyorsa launcher.asurasmp.com/indir adresinden yeniden kur.\n• Rust Edition'da Asura açılış ekranı artık sunucuya bağlanıp dünya yüklenene kadar kalır ve Asura SMP'nin kaynak paketi \"Evet / Hayır\" sorusu olmadan gelir (2.0.0'ı ilk saatlerde indirenler için).",
     "date": "2026-11-12"
   },
   {
-    "title": "Sürüm 1.6.0",
-    "body": "• Yeni (deneysel): 26.3 Rust Edition. Minecraft 26.3'ün Rust ile yeniden yazılmış hali (Horizon); bizim testimizde yaklaşık 3 kat FPS. Sürüm listesinden \"26.3 Rust Edition (deneysel)\" seçip oynayabilirsin, varsayılan sürüm yine Fabric 26.3.\n• RAM: Aynı bilgisayarda play.asurasmp.com'da, görüş mesafesi 12'de Görev Yöneticisi'ne göre normal 26.3 ~1,75 GB, Rust Edition ~0,78 GB kullandı (yaklaşık %55 daha az). Rust Edition dünya verisinin bir kısmını ekran kartı belleğinde tutuyor.\n• …ve daha fazlası",
-    "date": "2026-11-10"
+    "title": "Sürüm 2.0.0",
+    "body": "• Asura Launcher 2.0: Rust Edition artık sesli sohbet, gruplar, Asura menüsü, otomatik giriş, günlük ödüller ve pelerinlerle geliyor.\n• 1.21.4 launcher'ın sürüm listesinden kaldırıldı; neredeyse kimse oynamıyordu. 1.21.4 seçili olanlar 26.3 ile açılır. O sürümdeki dünyaların ve ekran görüntülerin silinmez, Galeri'de görünmeye devam eder.\n• Launcher'dan girenler Asura SMP'nin kaynak paketini artık \"Evet / Hayır\" sorusu olmadan, doğrudan alır.\n• …ve daha fazlası",
+    "date": "2026-11-12"
   }
 ]
