@@ -11,13 +11,13 @@
     "date": "2026-10-09"
   },
   {
-    "title": "Sürüm 2.2.0",
-    "body": "• Rust Edition için 5 grafik ayarı: Ultra Performans, Performans, Normal, Kalite ve Ultra. Launcher'da Ayarlar > Rust Edition Grafik Ayarı'ndan seçersin, oyunu açınca uygulanır. Bizim testimizde Ultra Performans Ultra'nın yaklaşık 3,5 katı FPS verdi.\n• Seçtiğin ayar yalnızca bir kez yazılır: sonra oyunda değiştirdiğin ayarlar sen yeni bir ayar seçene kadar kalır. Performans ayarlarının kapattığı VSync, FPS sınırı ve shader, başka bir ayara geçince geri gelir.\n• \"Bilgisayarıma göre ayarla\" artık Rust Edition için de uygun grafik ayarını seçer.\n• …ve daha fazlası",
-    "date": "2026-11-12"
+    "title": "Sürüm 2.3.0",
+    "body": "• Yeni: Hesap kilidi. Profiller > anahtar düğmesinden hesabını kendi launcher'ına kilitleyebilirsin: şifreni bilen biri başka bir bilgisayardan ya da elle /login yazarak giremez. Yeni bir bilgisayarı hesabının bağlı olduğu Discord ile onaylarsın (en fazla 5 bilgisayar). Hesabın /esle ile Discord'a bağlı olmalı.\n• Yeni: Son girişler. Aynı yerde hesabına son 10 girişi görürsün: ne zaman, launcher'la mı elle mi, bu bilgisayardan mı ve farklı bir internetten mi.\n• …ve daha fazlası",
+    "date": "2026-11-13"
   },
   {
-    "title": "Sürüm 2.1.0",
-    "body": "• Bitdefender gibi bazı antivirüs programlarının Rust Edition'ı açtıktan sonra launcher'ı engellemesi düzeltildi: launcher artık arka planda PowerShell çalıştırmıyor. Launcher'ın açılmıyorsa launcher.asurasmp.com/indir adresinden yeniden kur.\n• Rust Edition'da Asura açılış ekranı artık sunucuya bağlanıp dünya yüklenene kadar kalır ve Asura SMP'nin kaynak paketi \"Evet / Hayır\" sorusu olmadan gelir (2.0.0'ı ilk saatlerde indirenler için).",
+    "title": "Sürüm 2.2.0",
+    "body": "• Rust Edition için 5 grafik ayarı: Ultra Performans, Performans, Normal, Kalite ve Ultra. Launcher'da Ayarlar > Rust Edition Grafik Ayarı'ndan seçersin, oyunu açınca uygulanır. Bizim testimizde Ultra Performans Ultra'nın yaklaşık 3,5 katı FPS verdi.\n• Seçtiğin ayar yalnızca bir kez yazılır: sonra oyunda değiştirdiğin ayarlar sen yeni bir ayar seçene kadar kalır. Performans ayarlarının kapattığı VSync, FPS sınırı ve shader, başka bir ayara geçince geri gelir.\n• \"Bilgisayarıma göre ayarla\" artık Rust Edition için de uygun grafik ayarını seçer.\n• …ve daha fazlası",
     "date": "2026-11-12"
   }
 ]
