@@ -8,6 +8,10 @@ Windows ilk kurulumda "bilinmeyen yayıncı" uyarısı gösterebilir; "Ek bilgi"
 
 # Güncelleme Geçmişi
 
+## 2.3.1 — 2026-11-13
+
+- Yeni: Rust Edition'da B tuşundaki ifade çarkı artık dolu: Selam, Dans, Hop, Reverans, Zafer, Bravo, Robot ve Gel buraya. Dans ve Robot sen hareket edene kadar sürer. Çevrimdışı hesaplarda çalışır; ifadeyi yalnızca sen görürsün.
+
 ## 2.3.0 — 2026-11-13
 
 - Yeni: Hesap kilidi. Profiller > anahtar düğmesinden hesabını kendi launcher'ına kilitleyebilirsin: şifreni bilen biri başka bir bilgisayardan ya da elle /login yazarak giremez. Yeni bir bilgisayarı hesabının bağlı olduğu Discord ile onaylarsın (en fazla 5 bilgisayar). Hesabın /esle ile Discord'a bağlı olmalı.
