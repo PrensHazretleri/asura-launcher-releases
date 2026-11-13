@@ -8,6 +8,22 @@ Windows ilk kurulumda "bilinmeyen yayıncı" uyarısı gösterebilir; "Ek bilgi"
 
 # Güncelleme Geçmişi
 
+## 2.3.0 — 2026-11-13
+
+- Yeni: Hesap kilidi. Profiller > anahtar düğmesinden hesabını kendi launcher'ına kilitleyebilirsin: şifreni bilen biri başka bir bilgisayardan ya da elle /login yazarak giremez. Yeni bir bilgisayarı hesabının bağlı olduğu Discord ile onaylarsın (en fazla 5 bilgisayar). Hesabın /esle ile Discord'a bağlı olmalı.
+- Yeni: Son girişler. Aynı yerde hesabına son 10 girişi görürsün: ne zaman, launcher'la mı elle mi, bu bilgisayardan mı ve farklı bir internetten mi.
+- Yeni: Seri ve etkinlik hatırlatıcısı. Bugünün hediyesini almadıysan ve serin bozulacaksa akşam bir kez, sunucu etkinliği başlamadan 10 dakika önce de bildirim gelir. Ayarlar > Bildirimler'den "Windows açılınca arka planda başlat"ı açarsan launcher saatin yanında sessizce bekler.
+- Yeni: Arkadaşlar. Ana Sayfa'da arkadaşının adını ekle ya da "Şu an oyunda" listesinde yıldıza bas: arkadaşın oyuna girince haber verilir, kimin oyunda olduğunu da görürsün.
+- Yeni: PvP kaynak paketleri. Modlar sayfasında Low Fire, Low Shield, küçük totem, PvP nişangahı ve PvP doku paketleri tek tıkla açılır; Rust Edition'da da çalışır.
+- Yeni: Markette indirim olunca Ana Sayfa'da kalan süresiyle birlikte görünür ve bir kez bildirim gelir.
+- Yeni: Bağlantı testi. Ayarlar > Bağlantı Testi: 15 saniyede sorunun senin internetinde mi yoksa sunucuya giden yolda mı olduğunu söyler; sonucu kopyalayıp Discord'a atabilirsin.
+- Yeni: Kıyafet sayfası. Sol menüdeki tişört simgesinden her hesabının skinini ve pelerinini seçersin: skin dosyası yükle ya da başka hesabının skinini giy. Yüklediğin skin artık launcher'da da görünür.
+- Kıyafet sayfasında karakterin 3B ve pelerini sırtında: kendi kendine döner, sürükleyerek çevirirsin, boşta dururken el sallar, etrafa bakar, zıplar, ara sıra dans eder ("Dans" düğmesiyle de dans ettirirsin). Karaktere tıklarsan hasar alır.
+- Ayarlar artık ayrı bir pencerede açılıyor: Oyun, Java, Launcher, Bildirimler, Rust Edition, Sesli Sohbet, Bağlantı Testi ve Sorun Giderme diye kategorilere ayrıldı, arama kutusuyla istediğin ayarı bulursun.
+- Sol menü artık yalnız simgelerle açılır: sol üstteki Asura logosuna basınca genişler, tekrar basınca daralır; launcher seçimini hatırlar.
+- Yeni: Dans! Oyunda B tuşuna basınca emote çarkı açılır: el sallarsın, alkışlarsın, ters takla atarsın, dans edersin. Danslarını yalnızca launcher kullanan oyuncular görür. Modlar sayfasındaki Sosyal bölümünden (Emotecraft) kapatabilirsin.
+- Yeni: Oyun çökünce "Güvenli modda aç". Oyun bir kez yalnızca gerekli modlarla açılır; böylece çökmeye bir modun mu sebep olduğunu anlarsın. Modların silinmez, sonraki açılışta hepsi geri gelir.
+
 ## 2.2.0 — 2026-11-12
 
 - Rust Edition için 5 grafik ayarı: Ultra Performans, Performans, Normal, Kalite ve Ultra. Launcher'da Ayarlar > Rust Edition Grafik Ayarı'ndan seçersin, oyunu açınca uygulanır. Bizim testimizde Ultra Performans Ultra'nın yaklaşık 3,5 katı FPS verdi.
