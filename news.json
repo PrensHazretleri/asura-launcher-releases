@@ -11,13 +11,13 @@
     "date": "2026-10-09"
   },
   {
-    "title": "Sürüm 2.3.1",
-    "body": "• Yeni: Rust Edition'da B tuşundaki ifade çarkı artık dolu: Selam, Dans, Hop, Reverans, Zafer, Bravo, Robot ve Gel buraya. Dans ve Robot sen hareket edene kadar sürer. Çevrimdışı hesaplarda çalışır; ifadeyi yalnızca sen görürsün.",
-    "date": "2026-11-13"
+    "title": "Sürüm 2.4.0",
+    "body": "• Yeni: Oyundaki Esc menüsü ve Client Ayarları Asura temasına büründü: altın köşeli çerçeveler, simgeli düğmeler, Client Ayarları'nda logolu başlık, grafik modlarında kalite çubukları ve kayarak açılıp kapanan anahtarlar. Bir düğmenin ne işe yaradığı farenin yanında yazar. Client Ayarları artık iki sütun: küçük ekranlarda ve 1080p'nin otomatik arayüz boyutunda da tamamı sığar.\n• …ve daha fazlası",
+    "date": "2026-11-14"
   },
   {
-    "title": "Sürüm 2.3.0",
-    "body": "• Yeni: Hesap kilidi. Profiller > anahtar düğmesinden hesabını kendi launcher'ına kilitleyebilirsin: şifreni bilen biri başka bir bilgisayardan ya da elle /login yazarak giremez. Yeni bir bilgisayarı hesabının bağlı olduğu Discord ile onaylarsın (en fazla 5 bilgisayar). Hesabın /esle ile Discord'a bağlı olmalı.\n• Yeni: Son girişler. Aynı yerde hesabına son 10 girişi görürsün: ne zaman, launcher'la mı elle mi, bu bilgisayardan mı ve farklı bir internetten mi.\n• …ve daha fazlası",
+    "title": "Sürüm 2.3.1",
+    "body": "• Yeni: Rust Edition'da B tuşundaki ifade çarkı artık dolu: Selam, Dans, Hop, Reverans, Zafer, Bravo, Robot ve Gel buraya. Dans ve Robot sen hareket edene kadar sürer. Çevrimdışı hesaplarda çalışır; ifadeyi yalnızca sen görürsün.",
     "date": "2026-11-13"
   }
 ]
