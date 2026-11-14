@@ -8,6 +8,16 @@ Windows ilk kurulumda "bilinmeyen yayıncı" uyarısı gösterebilir; "Ek bilgi"
 
 # Güncelleme Geçmişi
 
+## 2.4.0 — 2026-11-14
+
+- Yeni: Oyundaki Esc menüsü ve Client Ayarları Asura temasına büründü: altın köşeli çerçeveler, simgeli düğmeler, Client Ayarları'nda logolu başlık, grafik modlarında kalite çubukları ve kayarak açılıp kapanan anahtarlar. Bir düğmenin ne işe yaradığı farenin yanında yazar. Client Ayarları artık iki sütun: küçük ekranlarda ve 1080p'nin otomatik arayüz boyutunda da tamamı sığar.
+- Java sürümüne yeni performans modları geldi. EntityCulling duvarın arkasında kalan mobları, oyuncuları, sandıkları ve tabelaları çizmez; ImmediatelyFast yazıları, haritaları ve arayüzü daha hızlı çizer; More Culling yaprakların ve blokların görünmeyen yüzlerini atlar; Sodium Extra video ayarlarına bulutu, sisi, parçacıkları ve animasyonları tek tek kapatma seçenekleri ekler; ModernFix 1.21'de oyunu daha hızlı açar. Fark en çok binaların içinde çok sandık, tabela ve mob olan yerlerde hissedilir.
+- NVIDIA GTX 16 ve RTX kartı olanlara Nvidium da kurulur: uzak görüş mesafesinde FPS'i katlar. Shader açıkken ve desteklemeyen kartlarda kendini kapatır; Modlar > Performans'tan kapatabilirsin.
+- Oyun artık Mojang'ın kendi launcher'ındaki Java bellek ayarlarıyla açılıyor: ani takılmalar azalır.
+- İki ekran kartlı laptoplarda oyun artık güçlü ekran kartında açılıyor (Windows'un "Yüksek performans" ayarı). Kendin bir seçim yaptıysan ona dokunulmaz.
+- 26.2'yi daha önce oynayanlarda Fabric Loader hiç güncellenmiyordu; artık günde bir kez en yeni sürüme geçer.
+- Bir modun yeni sürümü diğer modlarla uyumsuz çıkarsa launcher onun bir önceki sürümünü kurar ya da o gün kurmaz: oyun "uyumsuz mod" hatasıyla açılmamazlık yapmaz.
+
 ## 2.3.1 — 2026-11-13
 
 - Yeni: Rust Edition'da B tuşundaki ifade çarkı artık dolu: Selam, Dans, Hop, Reverans, Zafer, Bravo, Robot ve Gel buraya. Dans ve Robot sen hareket edene kadar sürer. Çevrimdışı hesaplarda çalışır; ifadeyi yalnızca sen görürsün.
