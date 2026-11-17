@@ -8,6 +8,14 @@ Windows ilk kurulumda "bilinmeyen yayıncı" uyarısı gösterebilir; "Ek bilgi"
 
 # Güncelleme Geçmişi
 
+## 2.5.0 — 2026-11-17
+
+- Yeni: Kozmetikler! Kıyafet sayfasında 35 kozmetik: şapka, kanat, efekt, eldiven, omzunda duran hayvan, kuyruk ve yürüyüş izi. Hepsi Minecraft tarzında, piksel piksel ve 3 boyutlu. AsuraCoin ile alınır, Asura Launcher ile oynayan herkes oyunda görür.
+- Yeni: Hile koruması. Oyun artık sadece launcher'ın kendi indirdiği Java ile açılır; Ayarlar'daki "özel Java" seçeneği kaldırıldı. Java'ya hile yükleyen ayarlar (Java ajanı gibi) ve Windows ortam değişkenleri oyuna geçmez, oyun açıkken dışarıdan bağlanıp hile yükleyen programlar da oyuna bağlanamaz.
+- Kendi modlarını eklemeye devam edebilirsin, ama hile istemcileri (Meteor, Wurst, LiquidBounce...), X-ray, Freecam ve Baritone sunucuda yasak: mod klasöründe biri varsa oyun açılırken "kaldirilan-modlar" klasörüne taşınır. Launcher dosya adına değil, modun içine bakar.
+- Oyun dosyaları (sürüm dosyaları, oyun ve kütüphane dosyaları, mod listesi) elle değiştirilmişse launcher bunu fark eder ve asıllarını yeniden indirir. Güncellemeden sonraki ilk açılışta her şey bir kez yeniden kontrol edildiği için internet gerekir ve açılış biraz uzun sürebilir.
+- Kozmetiklerin hepsi: Şapkalar (Kızıl Silindir, Altın Taç, Ejder Boynuzu, Fes, Yeniçeri Börkü, Sultan Kavuğu, Melek Halesi, Kedi Kulakları, Noel Baba Şapkası), kanatlar (Ejder, Melek, Anka, Yarasa, Buz, Ender, Kelebek), efektler (Alev Halesi, Sakura Yaprakları, Yıldız Tozu, Ruh Ateşi, Kar Yağışı, Kalpler, Müzik Notaları), eldivenler (Ejder Pençesi, Altın Eldiven), omzunda duran hayvanlar (Mini Ejder, Tilki, Papağan, Baykuş), kuyruklar (Tilki, Ejder, Şeytan Kuyruğu) ve yürürken arkanda kalan izler (Çiçek, Alev, Yıldız İzi). Birine tıklayıp karakterinde dener, AsuraCoin (AC) ile alırsın; Kış Paketi ve Melek Seti %20 indirimli. Aldığın kozmetiği Asura Launcher ile oynayan herkes oyunda görür. Oyunda Esc > Kozmetikler'den de takıp çıkarabilirsin. Kanatlar dururken hafifçe kıpırdar, zıplayınca çırpar, elytra takınca gizlenir; omzundaki hayvan etrafa bakar, kuyruk sallanır.
+
 ## 2.4.0 — 2026-11-14
 
 - Yeni: Oyundaki Esc menüsü ve Client Ayarları Asura temasına büründü: altın köşeli çerçeveler, simgeli düğmeler, Client Ayarları'nda logolu başlık, grafik modlarında kalite çubukları ve kayarak açılıp kapanan anahtarlar. Bir düğmenin ne işe yaradığı farenin yanında yazar. Client Ayarları artık iki sütun: küçük ekranlarda ve 1080p'nin otomatik arayüz boyutunda da tamamı sığar.
