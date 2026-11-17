@@ -11,13 +11,13 @@
     "date": "2026-10-09"
   },
   {
+    "title": "Sürüm 2.5.0",
+    "body": "• Yeni: Kozmetikler! Kıyafet sayfasında 35 kozmetik: şapka, kanat, efekt, eldiven, omzunda duran hayvan, kuyruk ve yürüyüş izi. Hepsi Minecraft tarzında, piksel piksel ve 3 boyutlu. AsuraCoin ile alınır, Asura Launcher ile oynayan herkes oyunda görür.\n• Yeni: Hile koruması. Oyun artık sadece launcher'ın kendi indirdiği Java ile açılır; Ayarlar'daki \"özel Java\" seçeneği kaldırıldı. Java'ya hile yükleyen ayarlar (Java ajanı gibi) ve Windows ortam değişkenleri oyuna geçmez, oyun açıkken dışarıdan bağlanıp hile yükleyen programlar da oyuna bağlanamaz.\n• …ve daha fazlası",
+    "date": "2026-11-17"
+  },
+  {
     "title": "Sürüm 2.4.0",
     "body": "• Yeni: Oyundaki Esc menüsü ve Client Ayarları Asura temasına büründü: altın köşeli çerçeveler, simgeli düğmeler, Client Ayarları'nda logolu başlık, grafik modlarında kalite çubukları ve kayarak açılıp kapanan anahtarlar. Bir düğmenin ne işe yaradığı farenin yanında yazar. Client Ayarları artık iki sütun: küçük ekranlarda ve 1080p'nin otomatik arayüz boyutunda da tamamı sığar.\n• …ve daha fazlası",
     "date": "2026-11-14"
-  },
-  {
-    "title": "Sürüm 2.3.1",
-    "body": "• Yeni: Rust Edition'da B tuşundaki ifade çarkı artık dolu: Selam, Dans, Hop, Reverans, Zafer, Bravo, Robot ve Gel buraya. Dans ve Robot sen hareket edene kadar sürer. Çevrimdışı hesaplarda çalışır; ifadeyi yalnızca sen görürsün.",
-    "date": "2026-11-13"
   }
 ]
