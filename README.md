@@ -8,6 +8,12 @@ Windows ilk kurulumda "bilinmeyen yayıncı" uyarısı gösterebilir; "Ek bilgi"
 
 # Güncelleme Geçmişi
 
+## 2.5.1 — 2026-11-19
+
+- Yeni: Kendi pelerinini yükle (MVIP ve üstü rütbeler). Kıyafet sayfasında bir resim seç (PNG ya da JPG, en fazla 2 MB): pelerin şekline kendiliğinden kırpılır, karakterinin sırtında önizlersin. Yükleyince Asura Launcher ile oynayan herkes oyunda görür. Günde 3 kez değiştirebilirsin.
+- Her resim otomatik içerik kontrolünden geçer: uygunsuz resimler reddedilir, emin olunamayanlar yetkili onayına düşer. Rütben biterse pelerinin kapanır, rütben yenilenince geri gelir.
+- Warden Avı ve etkinlik dünyalarında pelerinler ve kozmetikler gizlenir, çıkınca geri gelir.
+
 ## 2.5.0 — 2026-11-17
 
 - Yeni: Kozmetikler! Kıyafet sayfasında 35 kozmetik: şapka, kanat, efekt, eldiven, omzunda duran hayvan, kuyruk ve yürüyüş izi. Hepsi Minecraft tarzında, piksel piksel ve 3 boyutlu. AsuraCoin ile alınır, Asura Launcher ile oynayan herkes oyunda görür.
