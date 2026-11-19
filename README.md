@@ -8,6 +8,13 @@ Windows ilk kurulumda "bilinmeyen yayıncı" uyarısı gösterebilir; "Ek bilgi"
 
 # Güncelleme Geçmişi
 
+## 2.5.2 — 2026-11-20
+
+- Yeni: HD pelerinler. Kendi pelerinini Full HD (1024x512) ya da Ultra HD (2048x1024) yükleyebilirsin, resim en fazla 10 MB. Oyunda pikselli değil yumuşak ve net görünür, uzaktan da titremez.
+- 175 AC ve üstü 9 kozmetik HD oldu: aynı Minecraft tarzında, 4 kat sık pikselle yeniden çizildi. Kıyafet sayfasında ve oyundaki Kozmetikler menüsünde sağ üstlerinde HD rozeti var.
+- Yeni: Asura Eldiveni. Kızıl zırh, altın perçin, yakut arma ve çelik pençeli HD eldiven. Satılmaz, AsuraVIP'lere özel.
+- Kıyafet sayfasının 3D önizlemesinde sol eldiven ve sağ kanat artık doğru görünüyor.
+
 ## 2.5.1 — 2026-11-19
 
 - Yeni: Kendi pelerinini yükle (MVIP ve üstü rütbeler). Kıyafet sayfasında bir resim seç (PNG ya da JPG, en fazla 2 MB): pelerin şekline kendiliğinden kırpılır, karakterinin sırtında önizlersin. Yükleyince Asura Launcher ile oynayan herkes oyunda görür. Günde 3 kez değiştirebilirsin.
