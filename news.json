@@ -16,13 +16,13 @@
     "date": "2026-10-09"
   },
   {
+    "title": "Sürüm 2.5.2",
+    "body": "• Yeni: HD pelerinler. Kendi pelerinini Full HD (1024x512) ya da Ultra HD (2048x1024) yükleyebilirsin, resim en fazla 10 MB. Oyunda pikselli değil yumuşak ve net görünür, uzaktan da titremez.\n• 175 AC ve üstü 9 kozmetik HD oldu: aynı Minecraft tarzında, 4 kat sık pikselle yeniden çizildi. Kıyafet sayfasında ve oyundaki Kozmetikler menüsünde sağ üstlerinde HD rozeti var.\n• Yeni: Asura Eldiveni. Kızıl zırh, altın perçin, yakut arma ve çelik pençeli HD eldiven. Satılmaz, AsuraVIP'lere özel.\n• Kıyafet sayfasının 3D önizlemesinde sol eldiven ve sağ kanat artık doğru görünüyor.",
+    "date": "2026-11-20"
+  },
+  {
     "title": "Sürüm 2.5.1",
     "body": "• Yeni: Kendi pelerinini yükle (MVIP ve üstü rütbeler). Kıyafet sayfasında bir resim seç (PNG ya da JPG, en fazla 2 MB): pelerin şekline kendiliğinden kırpılır, karakterinin sırtında önizlersin. Yükleyince Asura Launcher ile oynayan herkes oyunda görür. Günde 3 kez değiştirebilirsin.\n• Her resim otomatik içerik kontrolünden geçer: uygunsuz resimler reddedilir, emin olunamayanlar yetkili onayına düşer. Rütben biterse pelerinin kapanır, rütben yenilenince geri gelir.\n• Warden Avı ve etkinlik dünyalarında pelerinler ve kozmetikler gizlenir, çıkınca geri gelir.",
     "date": "2026-11-19"
-  },
-  {
-    "title": "Sürüm 2.5.0",
-    "body": "• Yeni: Kozmetikler! Kıyafet sayfasında 35 kozmetik: şapka, kanat, efekt, eldiven, omzunda duran hayvan, kuyruk ve yürüyüş izi. Hepsi Minecraft tarzında, piksel piksel ve 3 boyutlu. AsuraCoin ile alınır, Asura Launcher ile oynayan herkes oyunda görür.\n• Yeni: Hile koruması. Oyun artık sadece launcher'ın kendi indirdiği Java ile açılır; Ayarlar'daki \"özel Java\" seçeneği kaldırıldı. Java'ya hile yükleyen ayarlar (Java ajanı gibi) ve Windows ortam değişkenleri oyuna geçmez, oyun açıkken dışarıdan bağlanıp hile yükleyen programlar da oyuna bağlanamaz.\n• …ve daha fazlası",
-    "date": "2026-11-17"
   }
 ]
