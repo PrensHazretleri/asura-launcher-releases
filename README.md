@@ -8,6 +8,14 @@ Windows ilk kurulumda "bilinmeyen yayıncı" uyarısı gösterebilir; "Ek bilgi"
 
 # Güncelleme Geçmişi
 
+## 2.6.0 — 2026-11-20
+
+- Yeni: Hediye et. Kıyafet sayfasında bir kozmetiği, paketi ya da 30 gün AsuraVIP'i AC ile bir arkadaşına hediye et. Oyundaysa hemen haberi olur, değilse launcher'ı açınca görür ve tek tıkla takar.
+- Arkadaş listen artık hesabına bağlı. Birbirinizi ekleyince arkadaşının launcher'da mı oyunda mı olduğunu görürsün.
+- Yeni: Birlikte gir. Launcher'ı açık bir arkadaşını çağır; kabul edince ikinizin de oyunu açılıp sunucuya girer.
+- Kendi pelerinini yükleme hakkı rütbeye göre: MVIP günde 3, MVIP+ 5, AsuraVIP 10 kez.
+- Hediye ve arkadaş özellikleri için hesabının sunucu şifresi Profiller sayfasında kayıtlı olmalı. Launcher'da olduğunu görmelerini istemezsen Ayarlar > Bildirimler'den kapatabilirsin.
+
 ## 2.5.2 — 2026-11-20
 
 - Yeni: HD pelerinler. Kendi pelerinini Full HD (1024x512) ya da Ultra HD (2048x1024) yükleyebilirsin, resim en fazla 10 MB. Oyunda pikselli değil yumuşak ve net görünür, uzaktan da titremez.
