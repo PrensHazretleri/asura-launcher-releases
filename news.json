@@ -1,5 +1,10 @@
 [
   {
+    "title": "Asura Launcher 2.6.1: Pelerin yuvaları",
+    "body": "Onaylanan kendi pelerinlerin artık yuvalarda saklanıyor: MVIP 3, MVIP+ 5, AsuraVIP 10 yuva. Kıyafet sayfasında ya da oyunda Esc > Kozmetikler > Pelerin'den tek tıkla aralarında geçersin, yükleme hakkı harcamaz.\nYuvaların doluyken yeni pelerin yüklemek için önce birini sil: Kıyafet sayfasında pelerinin üstüne gel, çöp kutusuna bas.\nComplementary güncellemesiyle kapanan shader'lar da bu sürümle kendiliğinden geri geliyor.",
+    "date": "2026-11-20"
+  },
+  {
     "title": "Asura Launcher 2.6.0 çıktı: Hediye et ve Birlikte gir!",
     "body": "Artık arkadaşına kozmetik, paket ya da 30 gün AsuraVIP hediye edebilirsin: Kıyafet sayfasında hediye simgesine bas, adını yaz, AC bakiyenle gönder. Oyundaysa hemen haberi olur.\nArkadaş listen artık hesabına bağlı: birbirinizi ekleyin, kimin launcher'da kimin oyunda olduğunu görün. \"Birlikte gir\" ile arkadaşını çağır, kabul edince ikinizin de oyunu açılıp sunucuya girer.\nİkisi için de sunucu şifren Profiller sayfasında kayıtlı olmalı.",
     "date": "2026-11-20"
@@ -19,10 +24,5 @@
     "title": "Asura Launcher 1.0.0 çıktı!",
     "body": "Artık /login yazmak yok: sunucu şifreni launcher'a bir kez kaydet, gerisini launcher halleder. Hesabını Discord'a bağlarsan şifreni unuttuğunda launcher'dan yenileyebilirsin. Günlük hediye, giriş serisi ve pelerinler bundan sonra yalnızca launcher girişi doğrulanan hesaplara verilir; şifreni Profiller sayfasındaki anahtar düğmesinden kaydetmeyi unutma.",
     "date": "2026-10-09"
-  },
-  {
-    "title": "Sürüm 2.6.0",
-    "body": "• Yeni: Hediye et. Kıyafet sayfasında bir kozmetiği, paketi ya da 30 gün AsuraVIP'i AC ile bir arkadaşına hediye et. Oyundaysa hemen haberi olur, değilse launcher'ı açınca görür ve tek tıkla takar.\n• Arkadaş listen artık hesabına bağlı. Birbirinizi ekleyince arkadaşının launcher'da mı oyunda mı olduğunu görürsün.\n• Yeni: Birlikte gir. Launcher'ı açık bir arkadaşını çağır; kabul edince ikinizin de oyunu açılıp sunucuya girer.\n• Kendi pelerinini yükleme hakkı rütbeye göre: MVIP günde 3, MVIP+ 5, AsuraVIP 10 kez.\n• …ve daha fazlası",
-    "date": "2026-11-20"
   }
 ]
