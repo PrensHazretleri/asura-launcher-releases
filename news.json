@@ -1,5 +1,10 @@
 [
   {
+    "title": "Asura Launcher 2.6.0 çıktı: Hediye et ve Birlikte gir!",
+    "body": "Artık arkadaşına kozmetik, paket ya da 30 gün AsuraVIP hediye edebilirsin: Kıyafet sayfasında hediye simgesine bas, adını yaz, AC bakiyenle gönder. Oyundaysa hemen haberi olur.\nArkadaş listen artık hesabına bağlı: birbirinizi ekleyin, kimin launcher'da kimin oyunda olduğunu görün. \"Birlikte gir\" ile arkadaşını çağır, kabul edince ikinizin de oyunu açılıp sunucuya girer.\nİkisi için de sunucu şifren Profiller sayfasında kayıtlı olmalı.",
+    "date": "2026-11-20"
+  },
+  {
     "title": "Asura Launcher 2.5.0 çıktı: Kozmetikler geldi!",
     "body": "Kıyafet sayfasında 35 kozmetik seni bekliyor: şapka, kanat, efekt, eldiven, omuz hayvanı, kuyruk ve yürüyüş izi. Hepsi Minecraft tarzında, piksel piksel ve 3 boyutlu. Asura Launcher ile oynayan herkes seni onlarla görür.\nFiyatlar 50 AC'den başlıyor; Kış Paketi 308 AC, Melek Seti 160 AC (%20 indirimli). Kozmetiğe tıkla, karakterinde 3D dene, AC bakiyenle tek tıkla al. Oyunda Esc > Kozmetikler'den takıp çıkarabilirsin.\nYeni hile koruması da geldi: hile modları otomatik kaldırılır, kendi hilesiz modların serbest.",
     "date": "2026-11-17"
@@ -16,13 +21,8 @@
     "date": "2026-10-09"
   },
   {
-    "title": "Sürüm 2.5.2",
-    "body": "• Yeni: HD pelerinler. Kendi pelerinini Full HD (1024x512) ya da Ultra HD (2048x1024) yükleyebilirsin, resim en fazla 10 MB. Oyunda pikselli değil yumuşak ve net görünür, uzaktan da titremez.\n• 175 AC ve üstü 9 kozmetik HD oldu: aynı Minecraft tarzında, 4 kat sık pikselle yeniden çizildi. Kıyafet sayfasında ve oyundaki Kozmetikler menüsünde sağ üstlerinde HD rozeti var.\n• Yeni: Asura Eldiveni. Kızıl zırh, altın perçin, yakut arma ve çelik pençeli HD eldiven. Satılmaz, AsuraVIP'lere özel.\n• Kıyafet sayfasının 3D önizlemesinde sol eldiven ve sağ kanat artık doğru görünüyor.",
+    "title": "Sürüm 2.6.0",
+    "body": "• Yeni: Hediye et. Kıyafet sayfasında bir kozmetiği, paketi ya da 30 gün AsuraVIP'i AC ile bir arkadaşına hediye et. Oyundaysa hemen haberi olur, değilse launcher'ı açınca görür ve tek tıkla takar.\n• Arkadaş listen artık hesabına bağlı. Birbirinizi ekleyince arkadaşının launcher'da mı oyunda mı olduğunu görürsün.\n• Yeni: Birlikte gir. Launcher'ı açık bir arkadaşını çağır; kabul edince ikinizin de oyunu açılıp sunucuya girer.\n• Kendi pelerinini yükleme hakkı rütbeye göre: MVIP günde 3, MVIP+ 5, AsuraVIP 10 kez.\n• …ve daha fazlası",
     "date": "2026-11-20"
-  },
-  {
-    "title": "Sürüm 2.5.1",
-    "body": "• Yeni: Kendi pelerinini yükle (MVIP ve üstü rütbeler). Kıyafet sayfasında bir resim seç (PNG ya da JPG, en fazla 2 MB): pelerin şekline kendiliğinden kırpılır, karakterinin sırtında önizlersin. Yükleyince Asura Launcher ile oynayan herkes oyunda görür. Günde 3 kez değiştirebilirsin.\n• Her resim otomatik içerik kontrolünden geçer: uygunsuz resimler reddedilir, emin olunamayanlar yetkili onayına düşer. Rütben biterse pelerinin kapanır, rütben yenilenince geri gelir.\n• Warden Avı ve etkinlik dünyalarında pelerinler ve kozmetikler gizlenir, çıkınca geri gelir.",
-    "date": "2026-11-19"
   }
 ]
