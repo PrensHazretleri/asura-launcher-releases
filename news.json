@@ -1,12 +1,7 @@
 [
   {
-    "title": "Asura Launcher 2.6.1: Pelerin yuvaları",
-    "body": "Onaylanan kendi pelerinlerin artık yuvalarda saklanıyor: MVIP 3, MVIP+ 5, AsuraVIP 10 yuva. Kıyafet sayfasında ya da oyunda Esc > Kozmetikler > Pelerin'den tek tıkla aralarında geçersin, yükleme hakkı harcamaz.\nYuvaların doluyken yeni pelerin yüklemek için önce birini sil: Kıyafet sayfasında pelerinin üstüne gel, çöp kutusuna bas.\nComplementary güncellemesiyle kapanan shader'lar da bu sürümle kendiliğinden geri geliyor.",
-    "date": "2026-11-20"
-  },
-  {
-    "title": "Asura Launcher 2.6.0 çıktı: Hediye et ve Birlikte gir!",
-    "body": "Artık arkadaşına kozmetik, paket ya da 30 gün AsuraVIP hediye edebilirsin: Kıyafet sayfasında hediye simgesine bas, adını yaz, AC bakiyenle gönder. Oyundaysa hemen haberi olur.\nArkadaş listen artık hesabına bağlı: birbirinizi ekleyin, kimin launcher'da kimin oyunda olduğunu görün. \"Birlikte gir\" ile arkadaşını çağır, kabul edince ikinizin de oyunu açılıp sunucuya girer.\nİkisi için de sunucu şifren Profiller sayfasında kayıtlı olmalı.",
+    "title": "Asura Launcher 2.6 çıktı: Hediye et ve Birlikte gir!",
+    "body": "Artık arkadaşına kozmetik, paket ya da 30 gün AsuraVIP hediye edebilirsin: Kıyafet sayfasında hediye simgesine bas, adını yaz, AC bakiyenle gönder. Oyundaysa hemen haberi olur.\nArkadaş listen artık hesabına bağlı: kim launcher'da, kim oyunda gör. \"Birlikte gir\" ile arkadaşını çağır, kabul edince ikinizin de oyunu açılıp sunucuya girer.\n2.6.1 ile pelerin yuvaları da geldi: onaylanan pelerinlerin saklanır (MVIP 3, MVIP+ 5, AsuraVIP 10), Kıyafet sayfasında tek tıkla aralarında geçersin. Kapanan shader'lar da geri geliyor.",
     "date": "2026-11-20"
   },
   {
@@ -24,5 +19,10 @@
     "title": "Asura Launcher 1.0.0 çıktı!",
     "body": "Artık /login yazmak yok: sunucu şifreni launcher'a bir kez kaydet, gerisini launcher halleder. Hesabını Discord'a bağlarsan şifreni unuttuğunda launcher'dan yenileyebilirsin. Günlük hediye, giriş serisi ve pelerinler bundan sonra yalnızca launcher girişi doğrulanan hesaplara verilir; şifreni Profiller sayfasındaki anahtar düğmesinden kaydetmeyi unutma.",
     "date": "2026-10-09"
+  },
+  {
+    "title": "Sürüm 2.6.1",
+    "body": "• Yeni: Pelerin yuvaları. Yüklediğin ve onaylanan her pelerin artık bir yuvada saklanır: MVIP 3, MVIP+ 5, AsuraVIP 10 yuva. Kıyafet sayfasında ya da oyunda Esc > Kozmetikler > Pelerin'den tek tıkla aralarında geçersin, yükleme hakkı harcamaz.\n• Şu an taktığın pelerin 1. yuvanda. Yuvaların doluyken yeni pelerin yüklemek için önce birini sil: Kıyafet sayfasında pelerinin üstüne gel, çöp kutusuna bas.\n• Rütben düşerse fazla yuvaların silinmez, kilitlenir; rütben yükselince geri açılır.\n• …ve daha fazlası",
+    "date": "2026-11-20"
   }
 ]
