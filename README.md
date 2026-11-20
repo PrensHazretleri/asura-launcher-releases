@@ -8,6 +8,13 @@ Windows ilk kurulumda "bilinmeyen yayıncı" uyarısı gösterebilir; "Ek bilgi"
 
 # Güncelleme Geçmişi
 
+## 2.6.1 — 2026-11-20
+
+- Yeni: Pelerin yuvaları. Yüklediğin ve onaylanan her pelerin artık bir yuvada saklanır: MVIP 3, MVIP+ 5, AsuraVIP 10 yuva. Kıyafet sayfasında ya da oyunda Esc > Kozmetikler > Pelerin'den tek tıkla aralarında geçersin, yükleme hakkı harcamaz.
+- Şu an taktığın pelerin 1. yuvanda. Yuvaların doluyken yeni pelerin yüklemek için önce birini sil: Kıyafet sayfasında pelerinin üstüne gel, çöp kutusuna bas.
+- Rütben düşerse fazla yuvaların silinmez, kilitlenir; rütben yükselince geri açılır.
+- Düzeltme: Shader paketi (Complementary) yeni sürüme güncellenince oyunda shader kendiliğinden kapanıyordu. Launcher artık seçimini yeni sürüme taşır; kapanmış olanlar bu sürümle geri gelir. Shader'ı kendin kapattıysan kapalı kalır.
+
 ## 2.6.0 — 2026-11-20
 
 - Yeni: Hediye et. Kıyafet sayfasında bir kozmetiği, paketi ya da 30 gün AsuraVIP'i AC ile bir arkadaşına hediye et. Oyundaysa hemen haberi olur, değilse launcher'ı açınca görür ve tek tıkla takar.
