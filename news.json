@@ -21,8 +21,8 @@
     "date": "2026-10-09"
   },
   {
-    "title": "Sürüm 2.6.1",
-    "body": "• Yeni: Pelerin yuvaları. Yüklediğin ve onaylanan her pelerin artık bir yuvada saklanır: MVIP 3, MVIP+ 5, AsuraVIP 10 yuva. Kıyafet sayfasında ya da oyunda Esc > Kozmetikler > Pelerin'den tek tıkla aralarında geçersin, yükleme hakkı harcamaz.\n• Şu an taktığın pelerin 1. yuvanda. Yuvaların doluyken yeni pelerin yüklemek için önce birini sil: Kıyafet sayfasında pelerinin üstüne gel, çöp kutusuna bas.\n• Rütben düşerse fazla yuvaların silinmez, kilitlenir; rütben yükselince geri açılır.\n• …ve daha fazlası",
-    "date": "2026-11-20"
+    "title": "Sürüm 2.7.0",
+    "body": "• Yeni: Sıralama sekmesi. Sunucunun en iyileri (öldürme, oynama süresi, bu hafta, düello ELO, tier, zenginlik, klanlar) ve herkesin profili: oynama süresi, K/D, düello, tier, klan. Arkadaş listesinde bir isme basınca profili açılır.\n• Yeni: Oyuncu kartı. Profilde \"Oyuncu kartı\"na bas: FIFA kartı gibi 40-99 puanlı, bronz, gümüş, altın ya da Asura kartın oluşur. Kaydedilir ve panoya kopyalanır, Discord'a yapıştırıp paylaşabilirsin. Profiller sitede de var: asurasmp.com/oyuncu/adın\n• …ve daha fazlası",
+    "date": "2026-11-23"
   }
 ]
