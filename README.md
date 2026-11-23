@@ -8,6 +8,36 @@ Windows ilk kurulumda "bilinmeyen yayıncı" uyarısı gösterebilir; "Ek bilgi"
 
 # Güncelleme Geçmişi
 
+## 2.7.0 — 2026-11-23
+
+- Yeni: Sıralama sekmesi. Sunucunun en iyileri (öldürme, oynama süresi, bu hafta, düello ELO, tier, zenginlik, klanlar) ve herkesin profili: oynama süresi, K/D, düello, tier, klan. Arkadaş listesinde bir isme basınca profili açılır.
+- Yeni: Oyuncu kartı. Profilde "Oyuncu kartı"na bas: FIFA kartı gibi 40-99 puanlı, bronz, gümüş, altın ya da Asura kartın oluşur. Kaydedilir ve panoya kopyalanır, Discord'a yapıştırıp paylaşabilirsin. Profiller sitede de var: asurasmp.com/oyuncu/adın
+- Yeni: Görevler. Ana Sayfa'da her gün 3 günlük, her hafta 3 haftalık görev ve ilerlemen: canavar öldür, odun kes, elmas kaz, balık tut, aktif oyna... Bitirince kristal ödülü oyunda hemen gelir, günlüklerin hepsini bitirene ek bonus var. Oyunda /gorevler.
+- Yeni: Öldürme efektleri. Birini öldürünce Yıldırım Darbesi, Kristal Patlaması, Ruh Yükselişi ya da Havai Fişek çıkar; sunucudaki herkes görür. Kıyafet sayfasında yeni Öldürme sekmesi.
+- Yeni: Yılbaşı kozmetikleri: Ren Geyiği Boynuzu, Kardan Adam, Hediye Kutusu ve Yılbaşı Işıkları izi (paketi de var). 7 Ocak'a kadar satılır, alanlarda kalır.
+- Yeni renkler: Kara Melek Kanadı, Mavi Anka Kanadı ve Kızıl Hale.
+- Yeni: AsuraVIP'lere hareketli pelerinler: Kızıl Alev, Galaksi ve Asura Işıltısı.
+- Yeni: Günün Mağazası. Her gün 4 kozmetik indirimde, biri %40'a kadar. Kıyafet sayfasının üstünde, gece yarısı yenilenir. Sitedeki Kozmetikler sayfasında da var.
+- Kıyafet sayfası artık akıcı: 3D karakter yeni bir yöntemle çiziliyor, kanat, şapka ve efektler takılıyken bile takılmadan döner ve sayfa rahat kayar. Görünüşü aynı.
+- Yeni: Kombinler. Skinini, pelerinini ve kozmetiklerini 5 kombine kaydet, Kıyafet sayfasında ya da oyunda Esc > Kozmetikler > Kombinler'den tek tıkla giy.
+- Yeni: Kombin kodu. Kıyafet sayfasında bir kombinini "Paylaş" ile 6 harflik bir koda çevir; arkadaşın "Kodla ekle"ye yazınca aynı kombini görür, eksik kozmetiklerini tek yerden alabilir.
+- Yeni: Fotoğraf çek. Kıyafet sayfasındaki karakterinin fotoğrafı Resimler > Asura Launcher klasörüne kaydedilir ve panoya kopyalanır. "Discord'da paylaş"a basınca Asura Discord'unda #kombinler kanalına düşer.
+- Yeni: Sunucu sohbeti. Ana Sayfa'da sunucunun sohbetini canlı izlersin; adın geçen mesajlar öne çıkar. Yazmak için oyuna gir.
+- Yeni: Davet et kazan. Arkadaşın launcher'da seni davet eden olarak yazsın; sunucuda 3 saat oynayınca sana 50, ona 25 AC gelir.
+- Yeni: Yayıncı kodu. Kıyafet sayfasında sevdiğin yayıncının kodunu gir, AC ile yaptığın alışverişlerin %10 kadarı ona gider. Sana ek ücreti yok.
+- AC yükle artık launcher'ın içinde açılıyor. Sunucu şifren kayıtlıysa mağazaya giriş yapmış olarak gelirsin; pencereyi kapatınca bakiyen hemen yenilenir.
+- Yeni: Crystal PvP göstergeleri ve totem sayacı. Oyunda Esc > Client Ayarları > Göstergeler'den aç: üzerindeki totem, end kristali, obsidyen ve ender incisi sayısı, inci bekleme süresi ve diğer oyuncuların son bir dakikada kaç totem patlattığı.
+- Yeni: Geri dönüş hediyesi. En az 7 gün ara verip dönenlere oyunda kristal ve kasa anahtarı hediye edilir, Ana Sayfa'daki Görevler kartında da görünür.
+- Yeni: Görev hatırlatıcısı. Günlük görevlerin bitmediyse akşam 20.00'de launcher hatırlatır (Ayarlar'dan kapatılabilir).
+- Yeni: Masaüstü kısayolu. Profiller sayfasında bir hesaba kısayol oluştur: masaüstündeki "Asura - adın" o hesapla oyunu doğrudan açar.
+- Yeni: Oyun kapanınca kısa bir özet: ne kadar oynadın, ortalama FPS'in ve en yavaş anlardaki FPS'in. Takılma olduysa ne yapacağını da söyler.
+- Yeni: Oyun çökerse çökme penceresinden "Yetkililere gönder" ile kaydı ve kısa bir notu yetkililere iletebilirsin.
+- Oyun biraz daha hızlı açılır: OYNA'ya basınca dosyalar artık aynı anda kontrol ediliyor.
+- Sunucuda Asura Launcher ile girenler artık "asuraclient" olarak görünür (önceden "fabric").
+- SS (ekran kontrolü) artık daha kolay: yetkili SS isteyince launcher öne gelir, komutu panoya kopyalar ve adımları gösterir; taramanın durumunu da görürsün. Launcher bilgisayarında hiçbir şey çalıştırmaz, taramayı yine sen başlatırsın.
+- Düzeltme: Rust Edition'ı aynı anda birden fazla hesapla açınca, sunucuya yeniden giren hesaplar "launcher yok" görünüp launcher ile girmeleri isteniyordu. Artık her hesap launcher oyuncusu sayılır.
+- Yetkililer için: Yetkili sekmesi (çevrimiçiler, konumları ve pingleri, TPS, açık SS istekleri, x-ray uyarıları; komutlar tek tıkla panoya).
+
 ## 2.6.1 — 2026-11-20
 
 - Yeni: Pelerin yuvaları. Yüklediğin ve onaylanan her pelerin artık bir yuvada saklanır: MVIP 3, MVIP+ 5, AsuraVIP 10 yuva. Kıyafet sayfasında ya da oyunda Esc > Kozmetikler > Pelerin'den tek tıkla aralarında geçersin, yükleme hakkı harcamaz.
