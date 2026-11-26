@@ -8,6 +8,10 @@ Windows ilk kurulumda "bilinmeyen yayıncı" uyarısı gösterebilir; "Ek bilgi"
 
 # Güncelleme Geçmişi
 
+## 2.7.1 — 2026-11-26
+
+- Yetkili sekmesi artık yalnızca Moderatör, Admin ve Yönetici hesaplarında görünür. Rehber hesaplarında sekme gizlendi.
+
 ## 2.7.0 — 2026-11-23
 
 - Yeni: Sıralama sekmesi. Sunucunun en iyileri (öldürme, oynama süresi, bu hafta, düello ELO, tier, zenginlik, klanlar) ve herkesin profili: oynama süresi, K/D, düello, tier, klan. Arkadaş listesinde bir isme basınca profili açılır.
